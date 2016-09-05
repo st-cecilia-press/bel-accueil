@@ -1,52 +1,39 @@
+require 'byebug'
 require 'yaml'
 require 'uri'
 require "net/http"
+
 def validate(metadata) 
-  return "Fail: Need Title" if metadata["title"].empty? 
-  return "Fail: Need Composer" if metadata["composer"].empty?
-  return "Fail: Need at least one Voicing" if metadata["voicings"].empty? or metadata["voicings"].all? {|i| i.nil? or i == ""}
-
-  metadata["voicings"].each do |voicing| 
-    return "Fail: Must contain only SATB characters" if voicing !~ /^[SATB]+$/
-  end
-
-  Array(metadata["manuscripts"]).each do |man|
-    return "Fail: Need Manuscript Name" if man["name"].empty?
-    error = image_error?(Array(man["images"]))
-    return error if error 
-  end 
-  Array(metadata["books"]).each do |man|
-    return "Fail: Need Book Slug" if man["slug"].empty?
-    error = image_error?(Array(man["images"]))
-    return error if error 
-  end 
-  return 'OK'
-end
-def image_error?(images)
-  images.each do |img|
-    return 'Fail: Image must have URL' if img["url"].empty? 
-    return 'Fail: Image must have Filename' if img["filename"].empty? 
-    return "Fail: '#{img["filename"]}' doesn't exist" unless File.exists?(img["filename"])
-    return "Fail: '#{img["url"]}' doesn't resolve" unless url_resolves?(img["url"])
-  end  
-  return false
-end
-def url_resolves?(url_text)
-  uri = URI.parse(url_text)
-  http = Net::HTTP.new(uri.host, uri.port)
-  res = http.request_head(uri.path) 
-  http.start do
-    path = (uri.path.empty?) ? '/' : uri.path
-    http.request_get(path) do |response|
-      case response
-      when Net::HTTPSuccess then
-         return true
-      when Net::HTTPRedirection then
-         return true
-      else
-        return false
-      end
+  metadata.each do |piece|
+    output = validate_piece(piece)
+    return "Error: #{output}" if output =~ /Slug/
+    unless output == 'OK'
+      return "Error: #{piece["slug"]}: #{output}"
     end
   end
+  return 'OK'
 end
+def validate_piece(piece)
+    
+  return "Need Slug" if piece['slug'].nil? or piece['slug'].empty?
+  return "Need PDF" unless File.exist?("#{piece['slug']}.pdf")
+  return "Need Title" if piece['title'].nil? or  piece['title'].empty? 
+  return "Need Composer" if  piece['composer'].nil? or piece["composer"].empty?
+  return "Need at least one Voicing" if  piece['voicings'].nil? or piece["voicings"].empty? or piece["voicings"].all? {|i| i.nil? or i == ""}
 
+  piece["voicings"].each do |voicing| 
+    if voicing != 'Heterophonic'
+      return "Must contain only SATB characters" if voicing !~ /^[SATB]+$/
+    end
+  end
+  return 'OK'
+end
+def files_in_metadata(metadata)
+  files = Dir['./*.pdf']
+  files.each do |file|
+    slug = File.basename(file, '.pdf')
+    next if slug !~ /^[a-z]/
+    return "Error: #{slug}.pdf not in metadata" unless metadata.detect{|m| m["slug"] == slug}
+  end
+  return 'OK'
+end

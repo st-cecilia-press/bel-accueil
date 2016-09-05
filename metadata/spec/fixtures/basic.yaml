@@ -1,6 +1,6 @@
-- slug: Alle Psallite
-  title: Anonymous
-  composer:
+- slug: slug
+  title: Sluggity Slug
+  composer: Anonymous
   voicings:
   - SAT
   source:
