@@ -1,0 +1,3599 @@
+---
+- slug: a_chanter_mer_de_so_queu__no_volria
+  title: A chantar m'er de so qu' eu no volria
+  composer: La Comtessa de Dia
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'Bibliothèque nationale fonds fr. 844: Manuscrit du Roi (1253 or later;
+    likely 1260s-70s)'
+  first_line_of_translation: Now I will sing a song I hate to sing
+  lyricist: 
+  language: Occitan
+  century: 12th-13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: a_lentrada_del_tens_clar
+  title: A lentrade del tens clar
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Chansonnier de St Germain­ des ­Prés (early 13th century)
+  first_line_of_translation: When the summer weather comes
+  lyricist: 
+  language: Occitan
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: a_madre_do_que_a_bestia
+  title: A Madre do que a bestia
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: The Mother of Him who once made the donkey of Balaam
+    speak
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: a_virgen_mui_groriosa
+  title: A Virgen mui grorïosa
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Holy Virgin, She most splendid
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: ah_man_ah_say
+  title: Ah man, ah say
+  composer: Anonymous
+  voicings:
+  - ST
+  - SB
+  source: Selden MS. B.26 f.7v (15th century)
+  first_line_of_translation: Ah man, ah sigh, ah sigh, ah sigh
+  lyricist: 
+  language: English
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: alle_psallite
+  title: Alle psallite
+  composer: Anonymous
+  voicings:
+  - SAT
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: Alle now we sing with luya
+  lyricist: 
+  language: Latin
+  century: 13th century
+  tags:
+  - motet
+  notes: 
+- slug: alte_clamat_epicurus
+  title: Alte clamat Epicurus
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: From on high states Epicurus
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: altri_che_voi
+  title: Altri che voi
+  composer: Jacques Arcadelt
+  voicings:
+  - ATTTB
+  - ATTBB
+  - ATBBB
+  source: "? (1538)"
+  first_line_of_translation: Nobody else but you can understand me
+  lyricist: Francesco Petrarca (Petrarch)
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: amours_u_trop_tart_me_sui_pris
+  title: Amours, u trop tart me sui pris
+  composer: Blanche de Castile, Queen of France
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Since Love has filled my every thought
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: ana_toto
+  title: Ana tōto [安名尊]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Peaceful, noble, famed
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: andreas_christi_famulus
+  title: Andreas Christi famulus
+  composer: Cristóbal de Morales
+  voicings:
+  - SSAAT
+  - SSAAB
+  - SSATT
+  - SSATB
+  source: "? (1542)"
+  first_line_of_translation: Saint Andrew, servant of the Christ
+  lyricist: 
+  language: Latin
+  century: 16th century
+  tags:
+  - holiday
+  notes: 
+- slug: angelica_bilta
+  title: Angelica biltà
+  composer: Francesco Landini
+  voicings:
+  - ST
+  - SB
+  source: 
+  first_line_of_translation: Angelic beauty's come to make earth more fair
+  lyricist: 
+  language: Italian
+  century: 14th century
+  notes: 
+- slug: angelus_emittitur
+  title: Angelus emittitur
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Piae Cantiones Ecclesiasticæ et Scholasticae et Scholasticae Vetervm Episcoporum
+    (1582)
+  first_line_of_translation: From the angel greetings flow
+  lyricist: 
+  language: Latin
+  century: 13th century
+  tags:
+  - holiday
+  notes: 
+- slug: antes_que_comais_a_dios
+  title: Antes que comáis a Dios
+  composer: Francisco Guerrero
+  voicings:
+  - SATB
+  - SABB
+  - STTB
+  - STBB
+  - AATB
+  - AABB
+  - ATTB
+  - ATBB
+  source: Canciones y villanescas espirituales (1589)
+  first_line_of_translation: Ere you eat the Body Scarred
+  lyricist: 
+  language: Spanish
+  century: 16th century
+  notes: 
+- slug: ara_pot_hom_conoisser_e_proar
+  title: Ara pot hom conoisser e proar
+  composer: Raimbaut de Vaqeiras
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: Mighty the bounty that for a great feat
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: aram_requier_sa_costume_son_us
+  title: Ara.m requier sa costum'e son us
+  composer: Raimbaut de Vaqeiras
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: Now love exacts its dues in solid gold
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: asamuzu
+  title: Asamuzu [浅水]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Under the bridge, the shallow stream
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: asia_felice
+  title: Asia felice
+  composer: Andrea Gabrieli
+  voicings:
+  - SATB
+  - AATB
+  source: Madrigali et Ricercari (1589)
+  first_line_of_translation: I, Asia, justly call myself contented
+  lyricist: 
+  language: Italian
+  century: 16th century
+  tags:
+  - madrigal
+  notes: 
+- slug: asuka_i
+  title: Asuka-i [飛鳥井]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Here beside the well
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: atarashiki_toshi
+  title: Atarashiki toshi [新しき年]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: At the New Year's dawn
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: aucuns_vont_souvent_amor_qui_cor_kyrie_eleison
+  title: Aucuns vont souvent - Amor qui cor - Kyrie eleison
+  composer: Petrus de Cruce
+  voicings:
+  - SSS
+  - SSA
+  - TTT
+  - TTB
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: Some say publicly bad things about love from envy - To
+    injure lovers fated - Kyrie eleison
+  lyricist: 
+  language: French, Greek
+  century: 13th century
+  tags:
+  - motet
+  notes: 
+- slug: audite_nova
+  title: Audite nova!
+  composer: Orlando di Lasso
+  voicings:
+  - SSST
+  - SSSB
+  - SSAT
+  - SSAB
+  - SAAT
+  - SAAB,
+  source: Viersprachendruck (1583)
+  first_line_of_translation: Hear ye the good news!
+  lyricist: 
+  language: German, Latin
+  century: 16th century
+  notes: 
+- slug: avecques_vous
+  title: Avecques vous
+  composer: Orlando di Lasso
+  voicings:
+  - SAAB
+  - SATB
+  - STTB
+  - AAAB
+  - AATB
+  - ATTB
+  source: Il primo libro dove si contengono madrigali, vilanesche, canzoni francesi,
+    e motetti (1555)
+  first_line_of_translation: You are my last; others are not worth you
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: azumaya
+  title: Azumaya [東屋]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: At the eastern house
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: bache_bene_venies
+  title: Bache, bene venies
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Bacchus, you will come to us
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: bem_meraveill_co_non_es_envejos
+  title: Be.m meraveill co non es envejos
+  composer: Guiraut Riquier
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'Chansonnier La Vallière: Bibliothèque nationale fonds fr. 22543 (13th/14th
+    century - c. 1300)'
+  first_line_of_translation: I greatly marvel that not every man
+  lyricist: 
+  language: Occitan
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: belle_bonne_sage
+  title: Belle, bonne, sage
+  composer: Baude Cordier
+  voicings:
+  - S
+  - T
+  - SAA
+  - SAT
+  - STT
+  - TTB
+  - TBB
+  source: Chantilly Codex (14th century)
+  first_line_of_translation: So lovely, good, and wise
+  lyricist: 
+  language: French
+  century: 15th century
+  notes: 
+- slug: bien_me_deusse_targier
+  title: Bien me deüsse targier
+  composer: Conon de Béthune
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Chansonnier du Roi (13th century)
+  first_line_of_translation: Duty says I should not write
+  lyricist: 
+  language: Occitan
+  century: 12th-13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: blyssid_be_that_mayde_mary
+  title: Blyssid be that mayde Mary
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: William Ballet's Lute Book (c. 1580); Sloane MS. 2593 (15th century)
+  first_line_of_translation: Blessed be that maid Mary
+  lyricist: 
+  language: English
+  century: 15th century
+  tags:
+  - English carol
+  - holiday
+  notes: 
+- slug: bon_jour_bon_mois_bon_an
+  title: Bon jour, bon mois, bon an
+  composer: Guillaume Du Fay
+  voicings:
+  - STT
+  source: 
+  first_line_of_translation: Good day, good month, good year, good gifts and blessings
+  lyricist: 
+  language: French
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: bryng_us_in_no_browne_bred
+  title: Bryng us in no browne bred
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bodleian Library MS. Eng. Poet. e. 1. (c. 1471-1485)
+  first_line_of_translation: Bring us in good ale, good ale
+  lyricist: Thomas Ashwell
+  language: English
+  century: 15th century
+  tags:
+  - English carol
+  - holiday
+  notes: 
+- slug: byrd_one_brere
+  title: Byrd one brere
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Bird on a briar
+  lyricist: 
+  language: English
+  century: 13th century
+  notes: 
+- slug: calenda_maja
+  title: Calenda maja
+  composer: Raimbaut de Vaqeiras
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: No May Day bowers
+  lyricist: Raimbaut de Vaqueiras
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: jongleur melody arranged by Raimbaut
+- slug: caritas_habundat
+  title: Caritas habundat
+  composer: Hildegard von Bingen
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Charity abounds here toward all of us
+  lyricist: 
+  language: Latin
+  century: 12th century
+  notes: 
+- slug: cest_la_fins
+  title: C'est la fins
+  composer: Guillaume d’Amiens
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: It is done
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: chanconnete_ainc_noir_a_le_cheminee_par_verite
+  title: Chanconnete - Ainc noir - A le cheminee - Par verité
+  composer: Anonymous
+  voicings:
+  - SSSS
+  - SSSA
+  - TTTT
+  - TTTB
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: Little song, go swift to meet - I've had of Love's thrill
+    - Deep in January - When put to test
+  lyricist: 
+  language: French, Latin
+  century: 13th century
+  tags:
+  - motet
+  notes: 
+- slug: chanterai_por_mon_corage
+  title: Chanterai por mon corage
+  composer: Guiot de Dijon
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: I will sing my heart a song
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: chikaranai_kaeru
+  title: Chikaranai kaeru [力なき蝦]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Feeble and helpless is the shrimp
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: christes_crosse
+  title: Christes crosse
+  composer: Thomas Morley
+  voicings:
+  - SAT
+  - SAB
+  source: Plaine and Easie Introduction to Practicall Musicke (1597)
+  first_line_of_translation: Crisscross bless me indeed
+  lyricist: 
+  language: English
+  century: 16th century
+  notes: 
+- slug: coma_grande_enfermidade
+  title: Com'a grande enfermidade
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Just as long as it can take to heal a sickness lasting
+    days
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: como_a_demais_da_gente
+  title: Como a demais da gente
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Much as others try to win things through deceit and shameless
+    lying
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: como_poden_per_sas_culpas
+  title: Como póden per sas culpas
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Just as by our own offenses we are broken and unfeeling
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: como_somos_per_conssello_do_demo_perdudos
+  title: Como somos per conssello do démo perdudos
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Just like we are by the Devil lost beyond retrieval
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: damon_e_filli
+  title: Damon e Filli
+  composer: Orazio Vecchi
+  voicings:
+  - SSAA
+  - TTBB
+  source: Selva di Varia Ricreatione (1590)
+  first_line_of_translation: Damon and Phyllis fighting
+  lyricist: 
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: de_los_alamos
+  title: De los álamos
+  composer: Juan Vasquez
+  voicings:
+  - SSST
+  - SSSB
+  - SSAT
+  - SSAB
+  - SSTT
+  - SSTB
+  - SAAT
+  - SAAB
+  - SATT
+  - SATB
+  source: 
+  first_line_of_translation: I am come from the poplars, Mother
+  lyricist: 
+  language: Spanish
+  century: 16th century
+  notes: 
+- slug: de_moi_dolereus
+  title: De moí dolereus
+  composer: Gillebert De Berneville
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Songs of sorrow I will raise
+  lyricist: 
+  language: French
+  century: 13th century
+  notes: 
+- slug: de_plus_en_plus
+  title: De plus en plus
+  composer: Gilles de Bins dit Binchois
+  voicings:
+  - ATT
+  source: 
+  first_line_of_translation: For more and more is the renewal
+  lyricist: 
+  language: French
+  century: 15th century
+  notes: 
+- slug: deduc_syon
+  title: Deduc Syon
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Let fall, Zion, your tears of woe
+  lyricist: Philip the Chancellor
+  language: Latin
+  century: 12th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: deo_gracias_anglia_agincourt_carol
+  title: Deo gracias Anglia (Agincourt Carol)
+  composer: Anonymous
+  voicings:
+  - ATB
+  source: Trinity Carol Roll (15th century)
+  first_line_of_translation: Our king went forth to Normandy
+  lyricist: 
+  language: English, Latin
+  century: 15th century
+  tags:
+  - English carol
+  notes: 
+- slug: des_oge_mais_quer_eu_trobar
+  title: Des oge mais quer eu trobar
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Forever I will be a knight
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: dic_christi_veritas
+  title: Dic Christi veritas
+  composer: Anonymous
+  voicings:
+  - SS
+  - SA
+  - AA
+  - BB
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Say, holy verity
+  lyricist: Philip the Chancellor
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: dieux_soit_en_cheste_maison
+  title: Dieux soit en cheste maison
+  composer: Adam de la Halle
+  voicings:
+  - SSS
+  - TTT
+  source: 
+  first_line_of_translation: This house, may God in it dwell
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - ballade
+  - holiday
+  notes: 
+- slug: dindirindin
+  title: Dindirindin
+  composer: Anonymous
+  voicings:
+  - SAAB
+  - SATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: I arose one lovely day
+  lyricist: 
+  language: Catalan, Spanish
+  century: 16th century
+  notes: 
+- slug: douce_dame_jolie
+  title: Douce dame jolie
+  composer: Guillaume de Machaut
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: O sweet and lovely lady
+  lyricist: 
+  language: French
+  century: 14th century
+  notes: 
+- slug: dulce_solum_natalis_patrie
+  title: Dulce solum natalis patrie
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Sweetest homeland where once I used to play
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: dulces_exuviae
+  title: Dulces exuviae
+  composer: Orlando di Lasso
+  voicings:
+  - SSTTTB
+  - SSTTBB
+  - SSTBBB
+  - SATTTB
+  - SATTBB
+  - SATBBB
+  - AATTTB
+  - AATTBB
+  - AATBBB
+  source: Mellange d'Orlande de Lassus, contenant plusieurs chansons, tant en vers
+    latins qu'en ryme francoyse, 4, 5, 6, 8, 10vv, Paris (1570)
+  first_line_of_translation: Objects so close and dear to me, while my Fate will allow
+    it
+  lyricist: Virgil
+  language: Latin
+  century: 16th century
+  notes: 
+- slug: ecco_la_primavera
+  title: Ecco la primavera
+  composer: Francesco Landini
+  voicings:
+  - AT
+  source: 
+  first_line_of_translation: Spring is here, with its graces
+  lyricist: 
+  language: Italian
+  century: 14th century
+  notes: 
+- slug: edi_beo_thu_hevene_quene
+  title: Edi beo thu, Hevene Quene
+  composer: Anonymous
+  voicings:
+  - SS
+  - SA
+  source: 
+  first_line_of_translation: Blessed be you, Heavenly Queen
+  lyricist: 
+  language: English
+  century: 13th century
+  tags:
+  - holiday
+  notes: 
+- slug: eissamen_ai_gerreiat_ab_amor
+  title: Eissament ai guerrejat ab amor
+  composer: Raimbaut de Vaqeiras
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: I've waged war on love in the very way
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: en_moyant_chanter
+  title: En m'oyant chanter
+  composer: Orlando di Lasso
+  voicings:
+  - SATB
+  source: Le premier livre de chansons, auquel sont 27 chansons nouvelles (1564)
+  first_line_of_translation: Frequently when you hear me sing
+  lyricist: Clément Marot
+  language: French
+  century: 16th century
+  notes: 
+- slug: en_natus_est_emanuel
+  title: En natus est Emanuel
+  composer: Michael Praetorius
+  voicings:
+  - SATB
+  source: Musae Sioniae (1609)
+  first_line_of_translation: Look! Born is our Emmanuel
+  lyricist: 
+  language: Latin
+  century: 17th century
+  tags:
+  - holiday
+  notes: 
+- slug: enemiga_le_soy_madre
+  title: Enemiga le soy, madre
+  composer: Anonymous
+  voicings:
+  - SAB
+  - STB
+  - AAB
+  - ATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: I'm an enemy, O Mother
+  lyricist: Juan del Encina
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: eno_pouco_e_eno_muito
+  title: Eno pouco e eno muito
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Holy Mary, Virgin Mother of the Lord Who watches all
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: esta_montana_de_enfrente
+  title: Esta montaña de enfrente
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: This mountain here before me
+  lyricist: 
+  language: Spanish
+  century: Traditional
+  notes: 
+- slug: exiit_diluculo_rustica_puella
+  title: Exiit diluculo rustica puella
+  composer: Anonymous
+  voicings:
+  - SS
+  - SA
+  - TT
+  - TB
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Morning dawns, and with a laugh
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: eya_martyr_stephane
+  title: Eya martyr Stephane
+  composer: Anonymous
+  voicings:
+  - ST
+  - SB
+  - AT
+  - AB
+  source: Trinity Carol Roll (15th century)
+  first_line_of_translation: Eya, martyr Stephane
+  lyricist: 
+  language: English, Latin
+  century: 15th century
+  tags:
+  - English carol
+  - holiday
+  notes: 
+- slug: fa_una_canzona
+  title: Fa una canzona
+  composer: Orazio Vecchi
+  voicings:
+  - SAAB
+  - SATB
+  - AAAB
+  - AATB
+  source: 
+  first_line_of_translation: Make me a song without a single black note
+  lyricist: 
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: fas_et_nefas_ambulant
+  title: Fas et nefas ambulant
+  composer: Anonymous
+  voicings:
+  - AAA
+  - AAT
+  - ATT
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Right and wrong go hand in hand
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: fenice_fu_e_vissi
+  title: Fenice fu’ e vissi
+  composer: Jacopo da Bologna
+  voicings:
+  - AT
+  - AB
+  source: 
+  first_line_of_translation: A phoenix I was, and I lived finely and purely
+  lyricist: 
+  language: Italian
+  century: 14th century
+  notes: 
+- slug: fi_maris_de_vostre_amour
+  title: Fi, maris, de vostre amour
+  composer: Adam de la Halle
+  voicings:
+  - SSA
+  - SST
+  - SAA
+  - SAT
+  - AAA
+  - AAT
+  source: Chansonnier la Vallière (14th century)
+  first_line_of_translation: Fie, my husband, leave my sight
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - rondeau
+  notes: 
+- slug: fortuna_desperata
+  title: Fortuna desperata
+  composer: Antoine Busnois
+  voicings:
+  - STT
+  - STB
+  - ATT
+  - ATB
+  source: 
+  first_line_of_translation: What fortune
+  lyricist: 
+  language: Italian
+  century: 15th century
+  notes: 
+- slug: fortz_cauza_es_que_tot_lo_major_dan
+  title: Fortz cauza es que tot lo major dan
+  composer: Gaucelm Faidit
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque Nationale fonds fr. 20050 (c. 1240-1250)
+  first_line_of_translation: A cruel event and the greatest blow
+  lyricist: 
+  language: Occitan
+  century: 12th-13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: fujifuno
+  title: Fujifuno [藤生野]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Form of the wild wisteria
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: gabriel_fram_heven_king
+  title: Gabriel fram Heven-King
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Gabriel from Heaven's King
+  lyricist: 
+  language: English
+  century: 13th century
+  tags:
+  - holiday
+  notes: 
+- slug: gaudete_gaudete_christus_est_natus
+  title: Gaudete! Gaudete! Christus est natus
+  composer: Anonymous
+  voicings:
+  - SATB
+  - SABB
+  - AATB
+  - AABB
+  source: Piae Cantiones Ecclesiasticæ et Scholasticae et Scholasticae Vetervm Episcoporum
+    (1582)
+  first_line_of_translation: Be joyful! Sing with joy
+  lyricist: 
+  language: Latin
+  century: 16th century
+  tags:
+  - holiday
+  notes: 
+- slug: gran_piadad_e_mercee_e_nobreza
+  title: Gran pïadad' e mercee e nobreza
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Great compassion, nobility, and mildness
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: guerras_ni_plag_no_son_bo
+  title: Guerras ni plag no son bo
+  composer: Raimbaut de Vaqeiras
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: Not war nor peacetime will go
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: helas_madame
+  title: Hélas madame
+  composer: Henry VIII, King of England
+  voicings:
+  - SATB
+  - STTB
+  - AATB
+  - ATTB
+  source: 
+  first_line_of_translation: Alas, my lady, you whom I adore
+  lyricist: 
+  language: French
+  century: 15th-16th century
+  notes: attributed
+- slug: hor_qui_son_lasso
+  title: Hor qui son lasso
+  composer: Orlando di Lasso
+  voicings:
+  - SATTB
+  - STTTB
+  - AATTB
+  - ATTTB
+  source: Primo libro di madrigali a 5 voci (1555)
+  first_line_of_translation: Here I am, weary; I wish that I were leaving
+  lyricist: Francesco Petrarca (Petrarch)
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: i_am_here_syre_crystes_mass
+  title: I am here, Syre Crystes Mass
+  composer: Richard Smert
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Ritson Manuscript (British Library, MS. Addit. 5665) (late 15th/early 16th
+    century)
+  first_line_of_translation: I am here, Sir Christmas
+  lyricist: 
+  language: English
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: i_come_from_heuin_to_tell
+  title: I Come from Heuin to Tell (Vom Himmel hoch da komm ich her)
+  composer: Martin Luther
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Joseph Klug's Gesangsbuch (1535); Scots translation published in Ane Compendiovs
+    Booke of Godly and Spiritvall Songs, collectit, &c. for avoyding of Sinne and
+    Harlotrie (1567)
+  first_line_of_translation: I come from Heaven high to tell
+  lyricist: Martin Luther; translated into Scots by James, John, and Robert Wedderburn
+  language: German, Scots
+  century: 16th century
+  tags:
+  - holiday
+  notes: 
+- slug: i_vo_bene
+  title: I’ vo’ bene
+  composer: Gherardello da Firenze
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: All those who wish me well, I wish them well
+  lyricist: 
+  language: Italian
+  century: 14th century
+  notes: 
+- slug: ik_zeg_adieu
+  title: Ik zeg adieu
+  composer: Jacobus Clemens non Papa
+  voicings:
+  - SSA
+  - SST
+  - TTB
+  source: 
+  first_line_of_translation: I say adieu; we two must now be parted
+  lyricist: 
+  language: Flemish
+  century: 16th century
+  notes: 
+- slug: il_sen_va_tard
+  title: Il s'en va tard
+  composer: Clément Janequin
+  voicings:
+  - SAAB
+  - SATB
+  - STTB
+  - AAAB
+  - AATB
+  - ATTB
+  source: "? (1545)"
+  first_line_of_translation: It’s late, the wind is strong, it’s raining
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: imo_to_are
+  title: Imo to are [妹と我]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: With my little sister
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: in_natali_novi_regis
+  title: In natali novi Regis
+  composer: Walter of Châtillon
+  voicings:
+  - SS
+  - SA
+  - AA
+  - TT
+  - TB
+  - BB
+  source: 
+  first_line_of_translation: On the birth of our new Savior
+  lyricist: 
+  language: Latin
+  century: 12th century
+  tags:
+  - conductus
+  - holiday
+  notes: attributed
+- slug: in_rama_sonat_gemitus
+  title: In Rama sonat gemitus
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Wolfenbüttel 677 (c1164)
+  first_line_of_translation: In Rama you can hear her cries
+  lyricist: 
+  language: Latin
+  century: 12th century
+  notes: 
+- slug: in_taberna_quando_sumus
+  title: In taberna quando sumus
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: When we're in the tavern drinking
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: innsbruck_ich_muss_dich_lassen
+  title: Innsbruck, ich muß dich lassen
+  composer: Heinrich Isaac
+  voicings:
+  - SATB
+  source: Ein außbund schöner Teutscher Liedlein zu singen und auff allerley instrument
+    zugebrauchen sonderling außerlesen (1560)
+  first_line_of_translation: Innsbruck, I have to leave you
+  lyricist: 
+  language: German
+  century: 15th century
+  notes: 
+- slug: ise_no_umi
+  title: Ise no umi [伊勢の海]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: The ocean at Ise
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: ja_nuns_hons_pris_ne_dira_sa_raison
+  title: Ja nuns hons pris ne dira sa raison
+  composer: Richard I the Lionheart, King of England
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: A prisoner can't say what's on his mind
+  lyricist: 
+  language: French
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: jaime_le_cueur
+  title: J'aime le cueur
+  composer: Claudin de Sermisy
+  voicings:
+  - SAT
+  - SST
+  source: 
+  first_line_of_translation: I love her heart and will ever
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: jamais_nul_temps_nom_pot_re_far_amors
+  title: Jamais nul temps no.m pot re far amors
+  composer: Gaucelm Faidit
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Biblioteca Nazionale Ambrosiana R 71 sup (c. 1300-1320)
+  first_line_of_translation: Never, no, never could Love create fear
+  lyricist: 
+  language: Occitan
+  century: 13th century
+  notes: 
+- slug: jay_par_trop_longuement_ayme
+  title: J'ay par trop longuement ayme
+  composer: Claudin de Sermisy
+  voicings:
+  - SST
+  source: 
+  first_line_of_translation: Too long this love has enflamed me
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: je_nay_point_plus_daffection
+  title: Je n'ay point plus d'affection
+  composer: Claudin de Sermisy
+  voicings:
+  - SATB
+  - STTB
+  - AATB
+  - ATTB
+  source: Dixhuytiesme livre contenant xxviij chansons nouvelles (1545)
+  first_line_of_translation: Of love I have no less or more
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: je_ne_menge_point_de_porc
+  title: Je ne menge point de porc
+  composer: Claudin de Sermisy
+  voicings:
+  - SAAB
+  - SATB
+  - AAAB
+  - AATB
+  source: 
+  first_line_of_translation: I do not eat pork at all
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: je_ne_puis_vivre_ainsy
+  title: Je ne puis vivre ainsy
+  composer: Antoine Busnois
+  voicings:
+  - SST
+  source: 
+  first_line_of_translation: I can no longer live this way
+  lyricist: 
+  language: French
+  century: 15th century
+  notes: 
+- slug: katerine_collaudemus
+  title: Katerine collaudemus
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: 'Catherine: O let us praise her'
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  - holiday
+  notes: 
+- slug: katsuragi
+  title: Katsuragi [葛城]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Before the Temple of Katsuragi they are found
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: kawaguchi
+  title: Kawaguchi [河口]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: At Kawaguchi
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: koromogae
+  title: Koromogae [更衣]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Let us exchange the clothes we wear
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: la_bionda_trecca
+  title: La bionda treçça
+  composer: Francesco Landini
+  voicings:
+  - SA
+  - AT
+  source: 
+  first_line_of_translation: Her flaxen tresses, long and lovely gold hair
+  lyricist: 
+  language: Italian
+  century: 14th century
+  notes: 
+- slug: la_que_tengo_no_es_prision
+  title: La que tengo no es prision
+  composer: Francisco de la Torre
+  voicings:
+  - STT
+  - STB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Prison is not where I am barred
+  lyricist: Conde de Cifuentes
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: la_serena
+  title: La Serena
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: If the sea were made of milk
+  lyricist: 
+  language: Spanish
+  century: 
+  tags:
+  - traditional
+  notes: 
+- slug: la_vida_de_culin
+  title: La vida de Culin
+  composer: Anonymous
+  voicings:
+  - SAAT
+  - SAAB
+  - SATT
+  - SATB
+  - STTT
+  - STTB
+  - AAAT
+  - AATT
+  - AATB
+  - ATTT
+  - ATTB
+  source: Cancionero Musical de Montecassino (1480s)
+  first_line_of_translation: The life of poor Culin
+  lyricist: 
+  language: Italian
+  century: 15th century
+  tags:
+  - frottola
+  - madrigal
+  notes: 
+- slug: lanquan_li_jorn_son_lonc_en_mai
+  title: Lanquan li jorn son lonc en mai
+  composer: Jaufre Rudel
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'St. Germaine des Prés: 13th century (c.1240-1250); France (North), Lorraine
+    -- Bibliothèque Nationale fonds fr. 20050'
+  first_line_of_translation: In May, long daylight warms the air
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: las_je_scay_bien
+  title: Las, je sçay bien
+  composer: Jacques Arcadelt
+  voicings:
+  - SATB
+  - SABB
+  - STTB
+  - STBB
+  - AATB
+  - AABB
+  - ATTB
+  - ATBB
+  source: La fleur de poésie françoyse; recueil joyeulx contenant plusiers huictains,
+    dixains, quatrains, chansons et aultres dictez de diverses matieres, etc. (1542-1543)
+  first_line_of_translation: How truly grave my sin was, I am now sure
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: laudemus_virginem
+  title: Laudemus virginem
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Llibre Vermell de Montserrat (late 14th century)
+  first_line_of_translation: Praise the Queen Virgin, our Holy One
+  lyricist: 
+  language: Latin
+  century: 14th century
+  notes: 
+- slug: lautrier_avint_en_cel_autre_pais
+  title: L'autrier avint en cel autre päis
+  composer: Conon de Béthune
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: The other day it happened far away
+  lyricist: 
+  language: Occitan
+  century: 12th-13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: le_content_est_riche
+  title: Le content est riche
+  composer: Tylman Susato
+  voicings:
+  - SATTB
+  - STTTB
+  - AATTB
+  - ATTTB
+  source: "? (1543)"
+  first_line_of_translation: A happy person’s life is wealthy
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: lhomme_arme
+  title: L'homme armé
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Oh, the Man, the Man-at-arms [*Traditional Lyrics* -
+    not by CAPL]
+  lyricist: 
+  language: French
+  century: 15th century
+  notes: 
+- slug: li_jalous_par_tout_sunt_fustat_tuit_cil_qui_sunt_enamourat_veritatem
+  title: Li jalous par tout sunt fustat - Tuit cil qui sunt enamourat - Veritatem
+  composer: Anonymous
+  voicings:
+  - AAT
+  - AAB
+  - ATT
+  - ATB
+  - TTT
+  - TTB
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: The jealous should be trounced and banned - All those
+    in love throughout the land - Truth and mercy
+  lyricist: 
+  language: French, Latin
+  century: 13th century
+  notes: 
+- slug: loibere_risen
+  title: Loibere risen
+  composer: Wizlâw III von Rügen
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Shriveling leaves fall to the ground from dried-out trees
+  lyricist: 
+  language: German
+  century: 13th century
+  tags:
+  - Minnesang
+  notes: 
+- slug: los_reyes_siguen_la_estrella
+  title: Los reyes siguen la estrella
+  composer: Francisco Guerrero
+  voicings:
+  - SATB
+  source: 
+  first_line_of_translation: The Kings, they follow the Star's light
+  lyricist: 
+  language: Spanish
+  century: 16th century
+  tags:
+  - holiday
+  notes: 
+- slug: ma_fin_est_mon_commencement
+  title: Ma fin est mon commencement
+  composer: Guillaume de Machaut
+  voicings:
+  - SSA
+  - SST
+  - TTT
+  - TTB
+  source: 
+  first_line_of_translation: My end is my beginning part
+  lyricist: 
+  language: French
+  century: 14th century
+  notes: 
+- slug: mal_s_a_end_achar
+  title: Mal s' á end' achar
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Vengeance will befall anyone who tries to desecrate Mary
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: mariem_matrem
+  title: Mariam matrem
+  composer: Anonymous
+  voicings:
+  - STT
+  - STB
+  - ATT
+  - ATB
+  source: Llibre Vermell de Montserrat (late 14th century)
+  first_line_of_translation: Maria, Virgin Mother pure
+  lyricist: 
+  language: Latin
+  century: 14th century
+  notes: 
+- slug: martini_festum_celebremus
+  title: Martini festum celebremus
+  composer: Orlando di Lasso
+  voicings:
+  - SAATB
+  - SATTB
+  - STTTB
+  - AAATB
+  - AATTB
+  - ATTTB
+  source: Patronicium musices. Orlandi di Lasso, Illustr. Ducis Bavariae, Chori Magistri,
+    Cantionum, quas mutetas vocant, opus novum. Prima Pars (1573)
+  first_line_of_translation: The feast of Martin now we honor, constantly praising
+  lyricist: 
+  language: Latin
+  century: 16th century
+  tags:
+  - holiday
+  notes: 
+- slug: mayutojime
+  title: Mayutojime [眉刀自女]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Take instead the feed for livestock
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: meu_naranjedo
+  title: Meu naranjedo
+  composer: Anonymous
+  voicings:
+  - SSAB
+  - SSTB
+  - SAAB
+  - SATB
+  - AAAB
+  - AATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: My oranges have not yet ripened
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: mignonne_allons_voir_si_la_rose
+  title: Mignonne, allons voir si la rose
+  composer: Jehan Chardavoine
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Le recueil des plus belles et excellentes chansons en forme de voix de ville
+    (1575)
+  first_line_of_translation: Sweetheart, let's see the rose together
+  lyricist: Pierre de Ronsard
+  language: French
+  century: 16th century
+  notes: 
+- slug: mille_regretz
+  title: Mille regretz
+  composer: Josquin des Prez
+  voicings:
+  - SATB
+  - SABB
+  - STTB
+  - STBB
+  - AATB
+  - AABB
+  - ATTB
+  - ATBB
+  source: "? (1549)"
+  first_line_of_translation: I still regret a thousand times my flight
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: mimasaka
+  title: Mimasaka [美作]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Mimasaka and Kume through
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: minoyama
+  title: Minoyama [美濃山]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: In Mino's mountains
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: miri_it_is
+  title: Miri it is
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Merry it is while summer lasts
+  lyricist: 
+  language: English
+  century: 13th century
+  tags:
+  - holiday
+  notes: 
+- slug: moto_shigeki
+  title: Moto shigeki [本滋き]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Our true provision
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: muito_bon_miragr_a_virgen
+  title: Muito bon miragr’ a Virgen
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Mighty is the Virgin, Who makes lovely miracles to show
+    it
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: muito_foi_noss_amigo
+  title: Muito foi nóss' amigo
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: He was our friend sincerely
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: mumegae
+  title: Mumegae [梅が枝]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: To the plum tree's arms
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: mushiroda
+  title: Mushiroda [席田]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Down in Mushiroda
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: my_lady_went_to_caunterbury
+  title: My Lady went to Caunterbury
+  composer: Richard Kele
+  voicings:
+  - SAAAB
+  - SAATB
+  - SATTB
+  - STTTB
+  - AAAAB
+  - AAATB
+  - AATTB
+  - ATTTB
+  source: Christmas carolles newely Inprynted (c. 1550)
+  first_line_of_translation: My heart of gold as true as steel
+  lyricist: 
+  language: English
+  century: 16th century
+  tags:
+  - holiday
+  notes: attributed; edited by Richard Kele
+- slug: natsubiki
+  title: Natsubiki [夏引]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Summer pulling thread
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: no_debo_dar_culpa
+  title: No debo dar culpa
+  composer: Pedro de Escobar
+  voicings:
+  - SAB
+  - STB
+  - AAB
+  - ATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: I don't blame or criticize you
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: no_me_digais_mal
+  title: No me digáis mal
+  composer: Alonso Perez de Alba
+  voicings:
+  - SAB
+  - STB
+  - AAB
+  - ATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Mama, don't say such things
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: no_puedo_apartarme
+  title: No puedo apartarme
+  composer: Anonymous
+  voicings:
+  - SSAB
+  - SSTB
+  - SSBB
+  - SAAB
+  - SATB
+  - SABB
+  - STTB
+  - STBB
+  - AAAB
+  - AATB
+  - AABB
+  - ATTB
+  - ATBB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: I cannot deny them
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: nom_agradiverns_ni_pascors
+  title: No.m agrad'iverns ni pascors
+  composer: Raimbaut de Vaqeiras
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: Spring and winter both I detest
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: non_es_meraville_seu_chant
+  title: Non es meravilla s'eu chan
+  composer: Bernart de Ventadorn
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'Bibliothèque nationale fonds fr. 844: Manuscrit du Roi (1253 or later;
+    likely 1260s-70s); Biblioteca Nazionale Ambrosiana R 71 sup (c. 1300-1320)'
+  first_line_of_translation: No wonder that I sing my lays
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: non_moriar_sed_vivam
+  title: Non moriar sed vivam
+  composer: Martin Luther
+  voicings:
+  - SATB
+  - STTB
+  - AATB
+  - ATTB
+  source: 
+  first_line_of_translation: I shall not die but live on
+  lyricist: Psalm 117:17
+  language: Latin
+  century: 16th century
+  notes: 
+- slug: non_sofre_santa_maria
+  title: Non sofre Santa María
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Mary won't allow believers, if Her pilgrimage they choose
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: nous_voyons_que_les_hommes
+  title: Nous voyons que les hommes
+  composer: Jacques Arcadelt
+  voicings:
+  - SSA
+  - SST
+  - SAA
+  - SAT
+  source: Tiers livre de chansons nouvellement (1567)
+  first_line_of_translation: We see that men get silly
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: now_wolde_y_fayne
+  title: Now wolde y fayne
+  composer: Anonymous
+  voicings:
+  - SA
+  - TT
+  source: 
+  first_line_of_translation: Now would I fain some mirth to make
+  lyricist: 
+  language: English
+  century: 15th century
+  notes: 
+- slug: nowel_owt_of_your_slepe_aryse
+  title: 'Nowel: Owt of your slepe aryse'
+  composer: Anonymous
+  voicings:
+  - SSS
+  - SSA
+  - SAA
+  - AAA
+  - TTT
+  - TTB
+  - TBB
+  - BBB
+  source: Selden Carol Book (15th century)
+  first_line_of_translation: Out of your sleep arise and wake
+  lyricist: 
+  language: English
+  century: 15th century
+  tags:
+  - holiay
+  notes: 
+- slug: nulhs_hom_en_re_no_falh
+  title: Nulhs hom en re no falh
+  composer: Aimeric de Belenoi
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543, "Chansonnier La Vallière" (13th/14th
+    century; c. 1300)
+  first_line_of_translation: You never miss success
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: also attributed to Raimbaut de Vaqueiras
+- slug: o_come_gran_martire_o_mio_soave_ardore
+  title: O com’è gran martire/O mio soave ardore
+  composer: Carlo Gesualdo
+  voicings:
+  - SATTB
+  - AATTB
+  source: "? (1594)"
+  first_line_of_translation: Oh, what a noble martyr/O my most gentle pleasure
+  lyricist: Giovanni Battista Guarini
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: o_souverain_pasteur_et_maistre
+  title: O souverain Pasteur et Maistre
+  composer: Jacobus Clemens non Papa
+  voicings:
+  - SAAT
+  - SAAB
+  - SATT
+  - SATB
+  source: Genevan Psalter (1543)
+  first_line_of_translation: O Shepherd Sovereign and Master
+  lyricist: Clément Marot
+  language: French
+  century: 16th century
+  notes: 
+- slug: o_varium_fortune_lubricum
+  title: O varium fortune lubricum
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: O changeable, O Fortune flexible
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: o_virtus_sapientiae
+  title: O virtus Sapientiae
+  composer: Hildegard von Bingen
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: O strength of Wisdom Beyond Time
+  lyricist: 
+  language: Latin
+  century: 12th century
+  notes: 
+- slug: oi_nezumi
+  title: Oi nezumi [老鼠]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: The Western Temple's older mice and rats
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: oime_el_cuor
+  title: Oimè el cuor
+  composer: Marchetto Cara
+  voicings:
+  - ATB
+  source: 
+  first_line_of_translation: Alas, my heart, alas my reason
+  lyricist: 
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: oji
+  title: Ōji [大路]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Along the highway
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: okuyama
+  title: Okuyama [奥山]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: In the mountain glens
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: on_en_dira_ce_quon_vouldra
+  title: On en dira ce quon vouldra
+  composer: Claudin de Sermisy
+  voicings:
+  - SST
+  - SAT
+  source: 
+  first_line_of_translation: Say what you want
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: on_parole_a_paris_frese_nouvele
+  title: On parole - A Paris - Frèse nouvele
+  composer: Anonymous
+  voicings:
+  - SAT
+  - SAB
+  - STB
+  - AAT
+  - AAB
+  - ATB
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: Some folks talk of winnowing and threshing - Paris has
+    at any time - Frèse nouvele
+  lyricist: 
+  language: French
+  century: 13th century
+  notes: 
+- slug: orientis_partibus
+  title: Orientis partibus
+  composer: Pierre de Corbeil
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: From the East the donkey came
+  lyricist: 
+  language: Latin
+  century: 13th century
+  tags:
+  - holiday
+  notes: attributed
+- slug: oy_comamos_y_bebamos
+  title: Oy comamos y bebamos
+  composer: Juan del Encina
+  voicings:
+  - SAAB
+  - SATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: For today we feast and revel
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: palastinalied
+  title: Palästinalied
+  composer: Walther von der Vogelweide
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: "​Münster Fragment (early 14th century)"
+  first_line_of_translation: Only now my life has meaning
+  lyricist: 
+  language: German
+  century: 12th-13th century
+  tags:
+  - Minnesang
+  notes: 
+- slug: pasame_por_dios_barquero
+  title: Pásame por Dios barquero
+  composer: Pedro de Escobar
+  voicings:
+  - SSB
+  - SAB
+  - AAB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Pass me 'cross, for God's sake, boatman
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: pase_el_agoa
+  title: Pase el agoa
+  composer: Anonymous
+  voicings:
+  - SSAB
+  - SSTB
+  - SAAB
+  - SATB
+  - AAAB
+  - AATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Cross deep oceans
+  lyricist: 
+  language: French, Galician-Portuguese
+  century: 15th century
+  notes: 
+- slug: paseisme_ahora
+  title: Paséisme ahora
+  composer: Pedro de Escobar
+  voicings:
+  - SATB
+  - STTB
+  - AATB
+  - ATTB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Come to me now in highlands yonder
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: pax_in_nomine_domini
+  title: Pax! in nomine Domini
+  composer: Marcabru
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'Bibliothèque nationale fonds fr. 844: Manuscrit du Roi (1253 or later;
+    likely 1260s-70s)'
+  first_line_of_translation: Pax in nomine Domini
+  lyricist: 
+  language: Latin, Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: personent_hodie
+  title: Personent hodie
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Piae Cantiones Ecclesiasticæ et Scholasticae et Scholasticae Vetervm Episcoporum
+    (1582)
+  first_line_of_translation: On this day, all around
+  lyricist: 
+  language: Latin
+  century: 14th century
+  tags:
+  - holiday
+  notes: 
+- slug: por_nos_virgen_madre
+  title: Por nós, Virgen Madre
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Pray for us, O Mother
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: porque_ben_santa_maria
+  title: Porque ben Santa Maria
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Since the Holy Virgin Mary Gives Her gifts, astute and
+    wise
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: porque_trobar_e_cousa_en_que_jaz
+  title: Porque trobar é cousa en que jaz
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Because composing songs is such an art
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: pos_sabers_nom_val_ni_sens
+  title: Pos sabers no.m val ni sens
+  composer: Guiraut Riquier
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'Chansonnier La Vallière: 13th/14th century (c.1300); Languedoc -- Bibliothèque
+    Nationale fonds fr. 22543'
+  first_line_of_translation: Learning is no help to me
+  lyricist: 
+  language: Occitan
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: pos_tals_sabers_mi_sors_em_creis
+  title: Pos tals sabers mi sors e.m creis
+  composer: Raimbaut d'Aurenga
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque Nationale fonds fr. 20050 (c. 1240-1250)
+  first_line_of_translation: Since such a skill springs and grows in me
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: pose_un_gran_foco_nel_mio_petto_amore
+  title: Pose un gran foco nel mio petto amore
+  composer: Giovanni Pierluigi da Palestrina
+  voicings:
+  - SATB
+  - AATB
+  source: 
+  first_line_of_translation: A fire was set by Love inside my being
+  lyricist: 
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: post_partum_virgo_ave_regina_veritatem
+  title: Post partum virgo - Ave regina - Veritatem
+  composer: Anonymous
+  voicings:
+  - SSS
+  - SSA
+  - TTT
+  - TTB
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: A birth, but virgin remaining - Hail, Queen of Glory;
+    hail, we say - Truth and mercy
+  lyricist: 
+  language: Latin
+  century: 13th century
+  notes: 
+- slug: pour_souhaitter
+  title: Pour souhaitter
+  composer: Josquin des Prez
+  voicings:
+  - AATTBB
+  - AATBBB
+  - ATTTBB
+  - ATTBBB
+  source: "? (1545)"
+  first_line_of_translation: In all my life I wish for nothing more
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: prendes_i_garde
+  title: Prendés i garde
+  composer: Guillaume d’Amiens
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: If they look freely
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: procurans_odium
+  title: Procurans odium
+  composer: Anonymous
+  voicings:
+  - SSS
+  - SSA
+  - SAA
+  - AAA
+  - TTT
+  - TTB
+  - TBB
+  - BBB
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Those souls who hatred pour
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: psallat_scholarum_concio
+  title: Psallat scholarum concio
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Piae Cantiones Ecclesiasticæ et Scholasticae et Scholasticae Vetervm Episcoporum
+    (1582)
+  first_line_of_translation: Sing we scholars collectively
+  lyricist: 
+  language: Latin
+  century: 16th century
+  tags:
+  - holiday
+  notes: 
+- slug: psallite_unigenito
+  title: Psallite, unigenito
+  composer: Michael Praetorius
+  voicings:
+  - SATB
+  - STTB
+  source: Musae Sioniae (1609)
+  first_line_of_translation: Sing with praise! Make your voices one
+  lyricist: 
+  language: Latin
+  century: 17th century
+  tags:
+  - holiday
+  notes: 
+- slug: pucelete_je_languis_domino
+  title: Pucelete - Je languis - Domino
+  composer: Anonymous
+  voicings:
+  - SSB
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: Pretty maiden, beautiful and fair - Languishing from
+    pains of love - Domino
+  lyricist: 
+  language: French, Latin
+  century: 13th century
+  notes: 
+- slug: quam_pulchra_es
+  title: Quam pulchra es
+  composer: John Dunstable
+  voicings:
+  - ATB
+  - ABB
+  source: 
+  first_line_of_translation: How beautiful you are and graceful
+  lyricist: 
+  language: Latin
+  century: 15th century
+  notes: 
+- slug: quan_vei_lalauzeta_mover
+  title: Quan vei l'alauzeta mover
+  composer: Bernart de Ventadorn
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: I see the lark with joy enthralled
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: quand_je_bois_du_vin_clairet_tourdion_la_magdalena
+  title: Quand je bois du vin clairet (Tourdion "La Magdalena")
+  composer: Pierre Attaignant
+  voicings:
+  - SATB
+  source: Neuf basses dances deux branles vingt et cinq pauennes auec quinze Gaillardes
+    en musique a quatre parties le tout nouuellemẽt (1530)
+  first_line_of_translation: When I'm drunk on claret wine - Wine will make us merry
+    - Drink, my friends
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: attributed
+- slug: quen_a_omagen_da_virgen
+  title: Quen a omagen da Virgen
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: When the blessing of the Virgin or her noble Son we see
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: quen_na_virgen_groriosa
+  title: Quen na Virgen grorïosa
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Place your hope upon the Virgin, Her whose Glory angels
+    tell
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: quen_quer_que_na_virgen_fia
+  title: Quen quér que na Virgen fía
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Those who trust in the Virgin and ask her for her help
+    will be helped
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: quen_santa_maria_quiser_defender
+  title: Quen Santa María quisér defender
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: If Holy Saint Mary keeps watch over you
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: quena_virgen_ben_servira
+  title: Quena Virgen ben servira
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: 'To the Virgin devotion show: To Paradise you will go'
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: questa_fanciullamor
+  title: Questa fanciull'amor
+  composer: Francesco Landini
+  voicings:
+  - SAA
+  - SAT
+  - TBB
+  source: 
+  first_line_of_translation: Love, make her kind to me
+  lyricist: 
+  language: Italian
+  century: 14th century
+  notes: 
+- slug: qui_dort_icy
+  title: Qui dort icy?
+  composer: Orlando di Lasso
+  voicings:
+  - SATB
+  source: Le premier livre de chansons, auquel sont 27 chansons nouvelles (1564)
+  first_line_of_translation: Who’s sleeping here? Don’t ask about that bed!
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: qwat_tydyngis_bryngyst_thou_massager
+  title: Qwat tydyngis bryngyst thou massager
+  composer: John Dunstable
+  voicings:
+  - AT
+  - AB
+  source: MS. Douce 302 (15th century); Selden MS. B.26 f.15v (15th century)
+  first_line_of_translation: A babe is born so high and pure
+  lyricist: John Audelay
+  language: English
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: rei_glorios_ueray_lums_e_clartatz
+  title: Reis glorios, verais lums e clartatz
+  composer: Giraut de Bornelh
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'Chansonnier La Vallière: 13th/14th century (c.1300); Languedoc -- Bibliothèque
+    Nationale fonds fr. 22543'
+  first_line_of_translation: Glorious King, Lord of radiant light
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: resonet_in_laudibus
+  title: Resonet in laudibus
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Piae Cantiones Ecclesiasticæ et Scholasticae et Scholasticae Vetervm Episcoporum
+    (1582)
+  first_line_of_translation: All the world with praises rings
+  lyricist: 
+  language: Latin
+  century: 14th century
+  tags:
+  - holiday
+  notes: 
+- slug: resvelons_nous
+  title: Resvelons nous
+  composer: Guillaume Du Fay
+  voicings:
+  - AAT
+  - AAB
+  - ATT
+  - ATB
+  source: 
+  first_line_of_translation: Revel we now, revel each loving boy
+  lyricist: 
+  language: French
+  century: 15th century
+  notes: 
+- slug: robins_maime
+  title: Robins m'aime
+  composer: Adam de la Halle
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Le Jeu de Robin et de Marion (c. 1282-1283)
+  first_line_of_translation: Robin loves me
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - rondeau
+  notes: 
+- slug: sainte_nicholaes_godes_druth
+  title: Sainte Nicholaes godes druð
+  composer: Godric of Finchale
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Royal 5 F VII (late 12th century)
+  first_line_of_translation: O, Saint Nicholas, God’s friend so close
+  lyricist: 
+  language: English
+  century: 12th century
+  tags:
+  - holiday
+  notes: 
+- slug: salve_regina
+  title: Salve, Regina
+  composer: Hermann Contractus
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Welcome, our Empress
+  lyricist: 
+  language: Latin
+  century: 11th century
+  tags:
+  - holiday
+  notes: attributed
+- slug: santa_maria_loei
+  title: Santa María loei
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Holy Queen Mary I praise, have praised, and will ever
+    praise
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: santa_maria_strela_do_dia
+  title: Santa María, Strela do día
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Oh, Holy Mary, the Daystar fair
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: savis_e_fols_humils_et_orgoillos
+  title: Savis e fols, humils et orgoillos
+  composer: Raimbaut de Vaqeiras
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
+  first_line_of_translation: I’m wise and dull, I’m humble and I’m proud
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: se_la_face_ay_pale
+  title: Se la face ay pale
+  composer: Guillaume Du Fay
+  voicings:
+  - SAT
+  - ATB
+  source: 
+  first_line_of_translation: If my cheeks are ashen
+  lyricist: 
+  language: French
+  century: 15th century
+  notes: 
+- slug: segli_e_vero
+  title: S'egli è vero
+  composer: Orazio Vecchi
+  voicings:
+  - SSB
+  source: 
+  first_line_of_translation: If it's true, Hymenaios
+  lyricist: 
+  language: Italian
+  century: 16th century
+  notes: 
+- slug: seigneurs_sachiez_qui_or_ne_sen_ira
+  title: Seigneurs, sachiez qui or ne s'en ira
+  composer: Thibaut IV de Champagne, King of Navarre
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: 'My lords, be warned: if you refuse to go'
+  lyricist: 
+  language: French
+  century: 13th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: sempre_mi_ride_sta
+  title: Sempre mi ride sta
+  composer: Adrian Willaert
+  voicings:
+  - SSAT
+  - SSAB
+  - SSTT
+  - SSTB
+  - SAAT
+  - SAAB
+  - SATB
+  - STTT
+  - STTB
+  - AAAT
+  - AAAB
+  - AATT
+  - AATB
+  - ATTT
+  - ATTB
+  source: "? (1545)"
+  first_line_of_translation: Always this lady laughs, laughs at me always
+  lyricist: 
+  language: Italian
+  century: 16th century
+  tags:
+  - madrigal
+  notes: 
+- slug: si_le_secours
+  title: Si le secours
+  composer: Nicolas Gombert
+  voicings:
+  - SATT
+  - SATB
+  source: "? (1544)"
+  first_line_of_translation: If my relief, the rescue I await
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: si_par_trop_boire
+  title: Si par trop boire
+  composer: Jacobus Clemens non Papa
+  voicings:
+  - SAATB
+  source: Le XIIième Livre de Chansons (1550)
+  first_line_of_translation: If in the morning when you wake
+  lyricist: 
+  language: French
+  century: 16th century
+  notes: 
+- slug: sic_mea_fata
+  title: Sic mea fata
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: I sing for comfort, my fate allaying
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: sicut_cervus
+  title: Sicut cervus
+  composer: Giovanni Pierluigi da Palestrina
+  voicings:
+  - SATB
+  - SABB
+  - STTB
+  - STBB
+  - AATB
+  - AABB
+  - ATTB
+  - ATBB
+  source: Motectorum liber secundus, 4vv (1584)
+  first_line_of_translation: As the deer thirsts and pants for flowing fountains of
+    water
+  lyricist: Psalm 42
+  language: Latin
+  century: 16th century
+  notes: 
+- slug: sol_sol_gi_gi_a_b_c
+  title: Sol sol gi gi A B C
+  composer: Anonymous
+  voicings:
+  - STB
+  - ATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Sol sol gee gee A B C
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: son_me_regarde_prennes_i_garde_he_mi_enfant
+  title: S'on me regarde - Prennés i garde - Hé, mi enfant
+  composer: Anonymous
+  voicings:
+  - AAT
+  - AAB
+  - ATT
+  - ATB
+  - TTT
+  - TTB
+  source: Montpellier Codex (late 13th century)
+  first_line_of_translation: If he is staring - Look at him, sharing - Hey, hey, my
+    child
+  lyricist: 
+  language: French
+  century: 13th century
+  notes: 
+- slug: splendens_ceptigera
+  title: Splendens ceptigera
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Llibre Vermell de Montserrat (late 14th century)
+  first_line_of_translation: Shining Queen, Sovereign One
+  lyricist: 
+  language: Latin
+  century: 14th century
+  notes: 
+- slug: stella_splendens
+  title: Stella splendens
+  composer: Anonymous
+  voicings:
+  - ST
+  source: Llibre Vermell de Montserrat (late 14th century)
+  first_line_of_translation: Splendid star of the mountain, with miracles that fall
+  lyricist: 
+  language: Latin
+  century: 14th century
+  notes: 
+- slug: sumer_is_icumen_in
+  title: Sumer is icumen in/Perspice Christicola
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Harley 978 (folio 11v)
+  first_line_of_translation: Summertime is coming in/See, good Christian, see the
+    sign
+  lyricist: 
+  language: English, Latin
+  century: 13th century
+  notes: 
+- slug: takasago
+  title: Takasago [高砂]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: High are the sands, high
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: takayama
+  title: Takayama [鷹山]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Upon Hawk Mountain
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: tanaka_no_ido
+  title: Tanaka no ido [田中の井戸]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: At the well of Tanaka
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: tant_que_vivray
+  title: Tant que vivray
+  composer: Claudin de Sermisy
+  voicings:
+  - SATB
+  source: 
+  first_line_of_translation: While I am young and flourish in my prime
+  lyricist: Clément Marot
+  language: French
+  century: 16th century
+  notes: 
+- slug: teresica_hermana
+  title: Teresica hermana
+  composer: Matheo Flecha el Viejo
+  voicings:
+  - SATB
+  - STTB
+  - AATB
+  - ATTB
+  source: Cancionero de Upsala (1556)
+  first_line_of_translation: Sister Teresica
+  lyricist: 
+  language: Spanish
+  century: 16th century
+  notes: 
+- slug: the_borys_hede_that_we_bryng_here
+  title: The borys hede that we bryng here
+  composer: Richard Smert
+  voicings:
+  - SA
+  - ST
+  - AA
+  - AT
+  source: Ritson Manuscript (British Library, MS. Addit. 5665) (late 15th/early 16th
+    century)
+  first_line_of_translation: The boar's head that we bring here
+  lyricist: 
+  language: English, Latin
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: ther_is_no_rose_of_swych_vertu
+  title: Ther is no rose of swych vertu
+  composer: Anonymous
+  voicings:
+  - SAT
+  source: Trinity Carol Roll (15th century)
+  first_line_of_translation: There is no rose of such virtue
+  lyricist: 
+  language: English, Latin
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: this_rose_is_railed_on_a_ryse
+  title: This Rose is railed on a ryse
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Selden Manuscript (c. 1450)
+  first_line_of_translation: Of a rose we sing today
+  lyricist: 
+  language: English
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: thys_endrys_nyght_i_see_a_syght
+  title: Thys endrys nyȝt I see a syght
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: National Library of Scotland MS. Advocates 19. 3. 1. (c. 1475)
+  first_line_of_translation: This yester-night I saw a sight
+  lyricist: 
+  language: English
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: tmeiskin_was_jonck
+  title: Tmeiskin was jonck
+  composer: Heinrich Isaac
+  voicings:
+  - STTB
+  - ATTB
+  source: 
+  first_line_of_translation: She was quite young
+  lyricist: 
+  language: Dutch
+  century: 15th-16th century
+  notes: 
+- slug: to_the_now_crystys_der_derlyng
+  title: To the now, Crystys der derlyng
+  composer: Anonymous
+  voicings:
+  - SS
+  - SA
+  - TT
+  - TB
+  source: Bodleian Library MS. Eng. Poet. e. 1. (c. 1471-1485)
+  first_line_of_translation: To you now, Christ’s dear darling one
+  lyricist: 
+  language: English
+  century: 15th century
+  tags:
+  - holiday
+  notes: 
+- slug: todos_los_bienes_del_mundo
+  title: Todos los bienes del mundo
+  composer: Juan del Encina
+  voicings:
+  - SSTB
+  - SATB
+  - AATB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Everything here in Creation
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: toller_pod_a_madre_de_nostro_sennor
+  title: Toller pód' a Madre de Nóstro Sennor
+  composer: Alfonso X el Sabio, King of Castile and León
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Cantigas de Santa Maria (1270-1290)
+  first_line_of_translation: Mother of our Savior and Lord who inspires
+  lyricist: 
+  language: Galician-Portuguese
+  century: 13th century
+  tags:
+  - cantiga
+  notes: 
+- slug: tosto_che_lalba
+  title: Tosto che l’alba
+  composer: Gherardello da Firenze
+  voicings:
+  - SST
+  - SSB
+  source: 
+  first_line_of_translation: Just as the new and splendid morning is dawning
+  lyricist: 
+  language: Italian
+  century: 14th century
+  notes: 
+- slug: toutes_les_nuitz
+  title: Toutes les nuitz
+  composer: Orlando di Lasso
+  voicings:
+  - SSAAB
+  - SSATB
+  - SSTTB
+  - SAAAB
+  - SAATB
+  - SATTB
+  source: Terzo libro di madrigali a 5 voci (1563)
+  first_line_of_translation: All of the nights that I lie down without you
+  lyricist: Clément Marot
+  language: French
+  century: 16th century
+  notes: 
+- slug: tres_morillas_menamoran
+  title: Tres morillas m'enamoran
+  composer: Anonymous
+  voicings:
+  - SAT
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Three young Moorish girls I fell for in Jaén
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: tu_as_tout_seul_jean_jean
+  title: Tu as tout seul, Jean, Jean
+  composer: Clément Janequin
+  voicings:
+  - SATB
+  source: "? (1547)"
+  first_line_of_translation: You have them all, Jean, Jean, the vines and plains
+  lyricist: Clément Marot
+  language: French
+  century: 16th century
+  notes: 
+- slug: ubi_caritas
+  title: Ubi caritas
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Where both charity and love are, God is present, too
+  lyricist: 
+  language: Latin
+  century: 10th century
+  notes: 
+- slug: under_der_linden
+  title: Under der linden
+  composer: Walther von der Vogelweide
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Under the linden in the wildlands
+  lyricist: 
+  language: German
+  century: 12th-13th century
+  tags:
+  - Minnesang
+  notes: 
+- slug: unicornis_captivatur
+  title: Unicornis captivatur
+  composer: Anonymous
+  voicings:
+  - SS
+  - SA
+  - AA
+  - TT
+  - TB
+  - BB
+  source: Engleberg Codex (14th‐15th centuries)
+  first_line_of_translation: Now the Unicorn is captured
+  lyricist: 
+  language: Latin
+  century: 14th-15th century
+  notes: 
+- slug: unter_alln_auf_dieser_erden
+  title: Unter all'n auf dieser Erden
+  composer: Hans Leo Hassler
+  voicings:
+  - SSATB
+  - SAATB
+  source: 
+  first_line_of_translation: In the world’s far ends to ends near
+  lyricist: 
+  language: German
+  century: 16th century
+  notes: 
+- slug: ut_queant_laxis
+  title: Ut queant laxis
+  composer: Guido of Arezzo
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Epistola (before 1033)
+  first_line_of_translation: Uttering praises, raising songs of your feats
+  lyricist: attr. Paulus Diaconus
+  language: Latin
+  century: 11th century
+  notes: unsure whether Guido is original composer
+- slug: vas_vos_soplei_domna_primeiramen
+  title: Vas vos soplei, domna, primeiramen
+  composer: Raimon Jordan
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 'Bibliothèque nationale fonds fr. 844: Manuscrit du Roi (1253 or later;
+    likely 1260s-70s)'
+  first_line_of_translation: For now and always, I bow down to you
+  lyricist: 
+  language: Occitan
+  century: 12th century
+  tags:
+  - troubadour/trouvère song
+  notes: 
+- slug: verbum_caro_factum_est_y_la_virgin_le_dezia
+  title: 'Verbum caro factum est: Y la Virgin le dezia'
+  composer: Anonymous
+  voicings:
+  - STTB
+  - STBB
+  - ATTB
+  - ATBB
+  source: Cancionero de Upsala (1556)
+  first_line_of_translation: Now the Word has been made flesh
+  lyricist: 
+  language: Latin, Spanish
+  century: 16th century
+  tags:
+  - holiday
+  notes: 
+- slug: verbum_patris_umanatur
+  title: Verbum Patris umanatur
+  composer: Walter of Châtillon
+  voicings:
+  - SAT
+  - SAB
+  - STT
+  - STB
+  - AAT
+  - AAB
+  - ATT
+  - ATB
+  - TTT
+  - TTB
+  source: Cambridge University Manuscript (13th century)
+  first_line_of_translation: Now the Word in flesh is seated, O! O!
+  lyricist: 
+  language: Latin
+  century: 12th century
+  tags:
+  - conductus
+  - holiday
+  notes: attributed
+- slug: veris_ad_imperia
+  title: Veris ad imperia
+  composer: Anonymous
+  voicings:
+  - SSS
+  - SSA
+  - SAA
+  - AAA
+  - TTT
+  - TTB
+  - TBB
+  - BBB
+  source: Florence Manuscript p29.1
+  first_line_of_translation: By the power of the Spring
+  lyricist: 
+  language: Latin
+  century: 13th century
+  notes: 
+- slug: veris_dulcis_in_tempore
+  title: Veris dulcis in tempore
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: Carmina Burana (11th-13th centuries)
+  first_line_of_translation: Spring is sweet, and green is growing
+  lyricist: 
+  language: Latin
+  century: 11th-13th century
+  tags:
+  - goliard song
+  notes: 
+- slug: viejo_malo_en_la_mi_cama
+  title: Viejo malo en la mi cama
+  composer: Sedano
+  voicings:
+  - SATB
+  - SABB
+  - STTB
+  - STBB
+  - AATB
+  - AABB
+  - ATTB
+  - ATBB
+  source: Cancionero de Palacio (late 15th century)
+  first_line_of_translation: Old and ugly in my blankets
+  lyricist: 
+  language: Spanish
+  century: 15th century
+  notes: 
+- slug: volez_vous_que_je_vous_chant
+  title: Volez vous que je vous chant
+  composer: Anonymous
+  voicings:
+  - S
+  - A
+  - T
+  - B
+  source: 
+  first_line_of_translation: Would you like to hear me sing
+  lyricist: 
+  language: French
+  century: 13th century
+  notes: 
+- slug: wa_ie
+  title: Wa ie [我家]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: At our house now
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: waga_kado_ni
+  title: Waga kado ni [我が門に]
+  composer: Anonymous
+  voicings:
+  - Heterophonic
+  source: Sango-yōroku (ed. Fujiwara no Moronaga, c. 1171-1192); Jinchi-yōroku (ed.
+    Fujiwara no Moronaga, c. 1171-1192)
+  first_line_of_translation: Here before our gate, oh
+  lyricist: 
+  language: Japanese
+  century: 12th century
+  tags:
+  - saibara
+  notes: edited by Fujiwara no Moronaga
