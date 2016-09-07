@@ -11,7 +11,7 @@ CSV.foreach('./!List of all pieces.csv')do |row|
   hash['source'] = row[4]
   hash['first_line_of_translation'] = row[5]
   hash['lyricist'] = row[6]
-  hash['language'] = row[7]
+  hash['language'] = row[7].split(', ') unless row[7].nil?
   hash['century'] = row[8]
   hash['tags'] = row[9].split(', ') unless row[9].nil?
   hash['notes'] = row[10]

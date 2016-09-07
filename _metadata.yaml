@@ -11,7 +11,8 @@
     likely 1260s-70s)'
   first_line_of_translation: Now I will sing a song I hate to sing
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th-13th century
   tags:
   - troubadour/trouvère song
@@ -27,7 +28,8 @@
   source: Chansonnier de St Germain­ des ­Prés (early 13th century)
   first_line_of_translation: When the summer weather comes
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -44,7 +46,8 @@
   first_line_of_translation: The Mother of Him who once made the donkey of Balaam
     speak
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -60,7 +63,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Holy Virgin, She most splendid
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -74,7 +78,8 @@
   source: Selden MS. B.26 f.7v (15th century)
   first_line_of_translation: Ah man, ah sigh, ah sigh, ah sigh
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - holiday
@@ -87,7 +92,8 @@
   source: Montpellier Codex (late 13th century)
   first_line_of_translation: Alle now we sing with luya
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 13th century
   tags:
   - motet
@@ -103,7 +109,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: From on high states Epicurus
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -118,7 +125,8 @@
   source: "? (1538)"
   first_line_of_translation: Nobody else but you can understand me
   lyricist: Francesco Petrarca (Petrarch)
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: amours_u_trop_tart_me_sui_pris
@@ -132,7 +140,8 @@
   source: 
   first_line_of_translation: Since Love has filled my every thought
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -146,7 +155,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Peaceful, noble, famed
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -162,7 +172,8 @@
   source: "? (1542)"
   first_line_of_translation: Saint Andrew, servant of the Christ
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 16th century
   tags:
   - holiday
@@ -176,7 +187,8 @@
   source: 
   first_line_of_translation: Angelic beauty's come to make earth more fair
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 14th century
   notes: 
 - slug: angelus_emittitur
@@ -191,7 +203,8 @@
     (1582)
   first_line_of_translation: From the angel greetings flow
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 13th century
   tags:
   - holiday
@@ -211,7 +224,8 @@
   source: Canciones y villanescas espirituales (1589)
   first_line_of_translation: Ere you eat the Body Scarred
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 16th century
   notes: 
 - slug: ara_pot_hom_conoisser_e_proar
@@ -225,7 +239,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: Mighty the bounty that for a great feat
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -241,7 +256,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: Now love exacts its dues in solid gold
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -255,7 +271,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Under the bridge, the shallow stream
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -269,7 +286,8 @@
   source: Madrigali et Ricercari (1589)
   first_line_of_translation: I, Asia, justly call myself contented
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   tags:
   - madrigal
@@ -283,7 +301,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Here beside the well
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -297,7 +316,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: At the New Year's dawn
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -314,7 +334,9 @@
   first_line_of_translation: Some say publicly bad things about love from envy - To
     injure lovers fated - Kyrie eleison
   lyricist: 
-  language: French, Greek
+  language:
+  - French
+  - Greek
   century: 13th century
   tags:
   - motet
@@ -332,7 +354,9 @@
   source: Viersprachendruck (1583)
   first_line_of_translation: Hear ye the good news!
   lyricist: 
-  language: German, Latin
+  language:
+  - German
+  - Latin
   century: 16th century
   notes: 
 - slug: avecques_vous
@@ -349,7 +373,8 @@
     e motetti (1555)
   first_line_of_translation: You are my last; others are not worth you
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: azumaya
@@ -361,7 +386,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: At the eastern house
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -377,7 +403,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Bacchus, you will come to us
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -394,7 +421,8 @@
     century - c. 1300)'
   first_line_of_translation: I greatly marvel that not every man
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -413,7 +441,8 @@
   source: Chantilly Codex (14th century)
   first_line_of_translation: So lovely, good, and wise
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th century
   notes: 
 - slug: bien_me_deusse_targier
@@ -427,7 +456,8 @@
   source: Chansonnier du Roi (13th century)
   first_line_of_translation: Duty says I should not write
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th-13th century
   tags:
   - troubadour/trouvère song
@@ -443,7 +473,8 @@
   source: William Ballet's Lute Book (c. 1580); Sloane MS. 2593 (15th century)
   first_line_of_translation: Blessed be that maid Mary
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - English carol
@@ -457,7 +488,8 @@
   source: 
   first_line_of_translation: Good day, good month, good year, good gifts and blessings
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th century
   tags:
   - holiday
@@ -473,7 +505,8 @@
   source: Bodleian Library MS. Eng. Poet. e. 1. (c. 1471-1485)
   first_line_of_translation: Bring us in good ale, good ale
   lyricist: Thomas Ashwell
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - English carol
@@ -490,7 +523,8 @@
   source: 
   first_line_of_translation: Bird on a briar
   lyricist: 
-  language: English
+  language:
+  - English
   century: 13th century
   notes: 
 - slug: calenda_maja
@@ -504,7 +538,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: No May Day bowers
   lyricist: Raimbaut de Vaqueiras
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -520,7 +555,8 @@
   source: 
   first_line_of_translation: Charity abounds here toward all of us
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 12th century
   notes: 
 - slug: cest_la_fins
@@ -534,7 +570,8 @@
   source: 
   first_line_of_translation: It is done
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -551,7 +588,9 @@
   first_line_of_translation: Little song, go swift to meet - I've had of Love's thrill
     - Deep in January - When put to test
   lyricist: 
-  language: French, Latin
+  language:
+  - French
+  - Latin
   century: 13th century
   tags:
   - motet
@@ -567,7 +606,8 @@
   source: 
   first_line_of_translation: I will sing my heart a song
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -581,7 +621,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Feeble and helpless is the shrimp
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -595,7 +636,8 @@
   source: Plaine and Easie Introduction to Practicall Musicke (1597)
   first_line_of_translation: Crisscross bless me indeed
   lyricist: 
-  language: English
+  language:
+  - English
   century: 16th century
   notes: 
 - slug: coma_grande_enfermidade
@@ -610,7 +652,8 @@
   first_line_of_translation: Just as long as it can take to heal a sickness lasting
     days
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -627,7 +670,8 @@
   first_line_of_translation: Much as others try to win things through deceit and shameless
     lying
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -643,7 +687,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Just as by our own offenses we are broken and unfeeling
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -659,7 +704,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Just like we are by the Devil lost beyond retrieval
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -673,7 +719,8 @@
   source: Selva di Varia Ricreatione (1590)
   first_line_of_translation: Damon and Phyllis fighting
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: de_los_alamos
@@ -693,7 +740,8 @@
   source: 
   first_line_of_translation: I am come from the poplars, Mother
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 16th century
   notes: 
 - slug: de_moi_dolereus
@@ -707,7 +755,8 @@
   source: 
   first_line_of_translation: Songs of sorrow I will raise
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   notes: 
 - slug: de_plus_en_plus
@@ -718,7 +767,8 @@
   source: 
   first_line_of_translation: For more and more is the renewal
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th century
   notes: 
 - slug: deduc_syon
@@ -732,7 +782,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Let fall, Zion, your tears of woe
   lyricist: Philip the Chancellor
-  language: Latin
+  language:
+  - Latin
   century: 12th-13th century
   tags:
   - goliard song
@@ -745,7 +796,9 @@
   source: Trinity Carol Roll (15th century)
   first_line_of_translation: Our king went forth to Normandy
   lyricist: 
-  language: English, Latin
+  language:
+  - English
+  - Latin
   century: 15th century
   tags:
   - English carol
@@ -761,7 +814,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Forever I will be a knight
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -777,7 +831,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Say, holy verity
   lyricist: Philip the Chancellor
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -791,7 +846,8 @@
   source: 
   first_line_of_translation: This house, may God in it dwell
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - ballade
@@ -806,7 +862,9 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: I arose one lovely day
   lyricist: 
-  language: Catalan, Spanish
+  language:
+  - Catalan
+  - Spanish
   century: 16th century
   notes: 
 - slug: douce_dame_jolie
@@ -820,7 +878,8 @@
   source: 
   first_line_of_translation: O sweet and lovely lady
   lyricist: 
-  language: French
+  language:
+  - French
   century: 14th century
   notes: 
 - slug: dulce_solum_natalis_patrie
@@ -834,7 +893,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Sweetest homeland where once I used to play
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -857,7 +917,8 @@
   first_line_of_translation: Objects so close and dear to me, while my Fate will allow
     it
   lyricist: Virgil
-  language: Latin
+  language:
+  - Latin
   century: 16th century
   notes: 
 - slug: ecco_la_primavera
@@ -868,7 +929,8 @@
   source: 
   first_line_of_translation: Spring is here, with its graces
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 14th century
   notes: 
 - slug: edi_beo_thu_hevene_quene
@@ -880,7 +942,8 @@
   source: 
   first_line_of_translation: Blessed be you, Heavenly Queen
   lyricist: 
-  language: English
+  language:
+  - English
   century: 13th century
   tags:
   - holiday
@@ -896,7 +959,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: I've waged war on love in the very way
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -909,7 +973,8 @@
   source: Le premier livre de chansons, auquel sont 27 chansons nouvelles (1564)
   first_line_of_translation: Frequently when you hear me sing
   lyricist: Clément Marot
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: en_natus_est_emanuel
@@ -920,7 +985,8 @@
   source: Musae Sioniae (1609)
   first_line_of_translation: Look! Born is our Emmanuel
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 17th century
   tags:
   - holiday
@@ -936,7 +1002,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: I'm an enemy, O Mother
   lyricist: Juan del Encina
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: eno_pouco_e_eno_muito
@@ -950,7 +1017,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Holy Mary, Virgin Mother of the Lord Who watches all
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -966,7 +1034,8 @@
   source: 
   first_line_of_translation: This mountain here before me
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: Traditional
   notes: 
 - slug: exiit_diluculo_rustica_puella
@@ -980,7 +1049,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Morning dawns, and with a laugh
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -996,7 +1066,9 @@
   source: Trinity Carol Roll (15th century)
   first_line_of_translation: Eya, martyr Stephane
   lyricist: 
-  language: English, Latin
+  language:
+  - English
+  - Latin
   century: 15th century
   tags:
   - English carol
@@ -1013,7 +1085,8 @@
   source: 
   first_line_of_translation: Make me a song without a single black note
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: fas_et_nefas_ambulant
@@ -1026,7 +1099,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Right and wrong go hand in hand
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -1040,7 +1114,8 @@
   source: 
   first_line_of_translation: A phoenix I was, and I lived finely and purely
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 14th century
   notes: 
 - slug: fi_maris_de_vostre_amour
@@ -1056,7 +1131,8 @@
   source: Chansonnier la Vallière (14th century)
   first_line_of_translation: Fie, my husband, leave my sight
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - rondeau
@@ -1072,7 +1148,8 @@
   source: 
   first_line_of_translation: What fortune
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 15th century
   notes: 
 - slug: fortz_cauza_es_que_tot_lo_major_dan
@@ -1086,7 +1163,8 @@
   source: Bibliothèque Nationale fonds fr. 20050 (c. 1240-1250)
   first_line_of_translation: A cruel event and the greatest blow
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th-13th century
   tags:
   - troubadour/trouvère song
@@ -1100,7 +1178,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Form of the wild wisteria
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1116,7 +1195,8 @@
   source: 
   first_line_of_translation: Gabriel from Heaven's King
   lyricist: 
-  language: English
+  language:
+  - English
   century: 13th century
   tags:
   - holiday
@@ -1133,7 +1213,8 @@
     (1582)
   first_line_of_translation: Be joyful! Sing with joy
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 16th century
   tags:
   - holiday
@@ -1149,7 +1230,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Great compassion, nobility, and mildness
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -1165,7 +1247,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: Not war nor peacetime will go
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -1181,7 +1264,8 @@
   source: 
   first_line_of_translation: Alas, my lady, you whom I adore
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th-16th century
   notes: attributed
 - slug: hor_qui_son_lasso
@@ -1195,7 +1279,8 @@
   source: Primo libro di madrigali a 5 voci (1555)
   first_line_of_translation: Here I am, weary; I wish that I were leaving
   lyricist: Francesco Petrarca (Petrarch)
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: i_am_here_syre_crystes_mass
@@ -1210,7 +1295,8 @@
     century)
   first_line_of_translation: I am here, Sir Christmas
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - holiday
@@ -1228,7 +1314,9 @@
     Harlotrie (1567)
   first_line_of_translation: I come from Heaven high to tell
   lyricist: Martin Luther; translated into Scots by James, John, and Robert Wedderburn
-  language: German, Scots
+  language:
+  - German
+  - Scots
   century: 16th century
   tags:
   - holiday
@@ -1244,7 +1332,8 @@
   source: 
   first_line_of_translation: All those who wish me well, I wish them well
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 14th century
   notes: 
 - slug: ik_zeg_adieu
@@ -1257,7 +1346,8 @@
   source: 
   first_line_of_translation: I say adieu; we two must now be parted
   lyricist: 
-  language: Flemish
+  language:
+  - Flemish
   century: 16th century
   notes: 
 - slug: il_sen_va_tard
@@ -1273,7 +1363,8 @@
   source: "? (1545)"
   first_line_of_translation: It’s late, the wind is strong, it’s raining
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: imo_to_are
@@ -1285,7 +1376,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: With my little sister
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1303,7 +1395,8 @@
   source: 
   first_line_of_translation: On the birth of our new Savior
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 12th century
   tags:
   - conductus
@@ -1320,7 +1413,8 @@
   source: Wolfenbüttel 677 (c1164)
   first_line_of_translation: In Rama you can hear her cries
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 12th century
   notes: 
 - slug: in_taberna_quando_sumus
@@ -1334,7 +1428,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: When we're in the tavern drinking
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -1348,7 +1443,8 @@
     zugebrauchen sonderling außerlesen (1560)
   first_line_of_translation: Innsbruck, I have to leave you
   lyricist: 
-  language: German
+  language:
+  - German
   century: 15th century
   notes: 
 - slug: ise_no_umi
@@ -1360,7 +1456,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: The ocean at Ise
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1376,7 +1473,8 @@
   source: 
   first_line_of_translation: A prisoner can't say what's on his mind
   lyricist: 
-  language: French
+  language:
+  - French
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -1390,7 +1488,8 @@
   source: 
   first_line_of_translation: I love her heart and will ever
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: jamais_nul_temps_nom_pot_re_far_amors
@@ -1404,7 +1503,8 @@
   source: Biblioteca Nazionale Ambrosiana R 71 sup (c. 1300-1320)
   first_line_of_translation: Never, no, never could Love create fear
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 13th century
   notes: 
 - slug: jay_par_trop_longuement_ayme
@@ -1415,7 +1515,8 @@
   source: 
   first_line_of_translation: Too long this love has enflamed me
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: je_nay_point_plus_daffection
@@ -1429,7 +1530,8 @@
   source: Dixhuytiesme livre contenant xxviij chansons nouvelles (1545)
   first_line_of_translation: Of love I have no less or more
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: je_ne_menge_point_de_porc
@@ -1443,7 +1545,8 @@
   source: 
   first_line_of_translation: I do not eat pork at all
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: je_ne_puis_vivre_ainsy
@@ -1454,7 +1557,8 @@
   source: 
   first_line_of_translation: I can no longer live this way
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th century
   notes: 
 - slug: katerine_collaudemus
@@ -1468,7 +1572,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: 'Catherine: O let us praise her'
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -1483,7 +1588,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Before the Temple of Katsuragi they are found
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1497,7 +1603,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: At Kawaguchi
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1511,7 +1618,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Let us exchange the clothes we wear
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1525,7 +1633,8 @@
   source: 
   first_line_of_translation: Her flaxen tresses, long and lovely gold hair
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 14th century
   notes: 
 - slug: la_que_tengo_no_es_prision
@@ -1537,7 +1646,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Prison is not where I am barred
   lyricist: Conde de Cifuentes
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: la_serena
@@ -1551,7 +1661,8 @@
   source: 
   first_line_of_translation: If the sea were made of milk
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 
   tags:
   - traditional
@@ -1574,7 +1685,8 @@
   source: Cancionero Musical de Montecassino (1480s)
   first_line_of_translation: The life of poor Culin
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 15th century
   tags:
   - frottola
@@ -1592,7 +1704,8 @@
     -- Bibliothèque Nationale fonds fr. 20050'
   first_line_of_translation: In May, long daylight warms the air
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -1613,7 +1726,8 @@
     dixains, quatrains, chansons et aultres dictez de diverses matieres, etc. (1542-1543)
   first_line_of_translation: How truly grave my sin was, I am now sure
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: laudemus_virginem
@@ -1627,7 +1741,8 @@
   source: Llibre Vermell de Montserrat (late 14th century)
   first_line_of_translation: Praise the Queen Virgin, our Holy One
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 14th century
   notes: 
 - slug: lautrier_avint_en_cel_autre_pais
@@ -1641,7 +1756,8 @@
   source: 
   first_line_of_translation: The other day it happened far away
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th-13th century
   tags:
   - troubadour/trouvère song
@@ -1657,7 +1773,8 @@
   source: "? (1543)"
   first_line_of_translation: A happy person’s life is wealthy
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: lhomme_arme
@@ -1672,7 +1789,8 @@
   first_line_of_translation: Oh, the Man, the Man-at-arms [*Traditional Lyrics* -
     not by CAPL]
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th century
   notes: 
 - slug: li_jalous_par_tout_sunt_fustat_tuit_cil_qui_sunt_enamourat_veritatem
@@ -1689,7 +1807,9 @@
   first_line_of_translation: The jealous should be trounced and banned - All those
     in love throughout the land - Truth and mercy
   lyricist: 
-  language: French, Latin
+  language:
+  - French
+  - Latin
   century: 13th century
   notes: 
 - slug: loibere_risen
@@ -1703,7 +1823,8 @@
   source: 
   first_line_of_translation: Shriveling leaves fall to the ground from dried-out trees
   lyricist: 
-  language: German
+  language:
+  - German
   century: 13th century
   tags:
   - Minnesang
@@ -1716,7 +1837,8 @@
   source: 
   first_line_of_translation: The Kings, they follow the Star's light
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 16th century
   tags:
   - holiday
@@ -1732,7 +1854,8 @@
   source: 
   first_line_of_translation: My end is my beginning part
   lyricist: 
-  language: French
+  language:
+  - French
   century: 14th century
   notes: 
 - slug: mal_s_a_end_achar
@@ -1746,7 +1869,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Vengeance will befall anyone who tries to desecrate Mary
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -1762,7 +1886,8 @@
   source: Llibre Vermell de Montserrat (late 14th century)
   first_line_of_translation: Maria, Virgin Mother pure
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 14th century
   notes: 
 - slug: martini_festum_celebremus
@@ -1779,7 +1904,8 @@
     Cantionum, quas mutetas vocant, opus novum. Prima Pars (1573)
   first_line_of_translation: The feast of Martin now we honor, constantly praising
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 16th century
   tags:
   - holiday
@@ -1793,7 +1919,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Take instead the feed for livestock
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1811,7 +1938,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: My oranges have not yet ripened
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: mignonne_allons_voir_si_la_rose
@@ -1826,7 +1954,8 @@
     (1575)
   first_line_of_translation: Sweetheart, let's see the rose together
   lyricist: Pierre de Ronsard
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: mille_regretz
@@ -1844,7 +1973,8 @@
   source: "? (1549)"
   first_line_of_translation: I still regret a thousand times my flight
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: mimasaka
@@ -1856,7 +1986,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Mimasaka and Kume through
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1870,7 +2001,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: In Mino's mountains
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1886,7 +2018,8 @@
   source: 
   first_line_of_translation: Merry it is while summer lasts
   lyricist: 
-  language: English
+  language:
+  - English
   century: 13th century
   tags:
   - holiday
@@ -1900,7 +2033,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Our true provision
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1917,7 +2051,8 @@
   first_line_of_translation: Mighty is the Virgin, Who makes lovely miracles to show
     it
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -1933,7 +2068,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: He was our friend sincerely
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -1947,7 +2083,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: To the plum tree's arms
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1961,7 +2098,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Down in Mushiroda
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -1981,7 +2119,8 @@
   source: Christmas carolles newely Inprynted (c. 1550)
   first_line_of_translation: My heart of gold as true as steel
   lyricist: 
-  language: English
+  language:
+  - English
   century: 16th century
   tags:
   - holiday
@@ -1995,7 +2134,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Summer pulling thread
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -2011,7 +2151,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: I don't blame or criticize you
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: no_me_digais_mal
@@ -2025,7 +2166,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Mama, don't say such things
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: no_puedo_apartarme
@@ -2048,7 +2190,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: I cannot deny them
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: nom_agradiverns_ni_pascors
@@ -2062,7 +2205,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: Spring and winter both I detest
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -2079,7 +2223,8 @@
     likely 1260s-70s); Biblioteca Nazionale Ambrosiana R 71 sup (c. 1300-1320)'
   first_line_of_translation: No wonder that I sing my lays
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -2095,7 +2240,8 @@
   source: 
   first_line_of_translation: I shall not die but live on
   lyricist: Psalm 117:17
-  language: Latin
+  language:
+  - Latin
   century: 16th century
   notes: 
 - slug: non_sofre_santa_maria
@@ -2109,7 +2255,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Mary won't allow believers, if Her pilgrimage they choose
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2125,7 +2272,8 @@
   source: Tiers livre de chansons nouvellement (1567)
   first_line_of_translation: We see that men get silly
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: now_wolde_y_fayne
@@ -2137,7 +2285,8 @@
   source: 
   first_line_of_translation: Now would I fain some mirth to make
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   notes: 
 - slug: nowel_owt_of_your_slepe_aryse
@@ -2155,7 +2304,8 @@
   source: Selden Carol Book (15th century)
   first_line_of_translation: Out of your sleep arise and wake
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - holiay
@@ -2172,7 +2322,8 @@
     century; c. 1300)
   first_line_of_translation: You never miss success
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -2186,7 +2337,8 @@
   source: "? (1594)"
   first_line_of_translation: Oh, what a noble martyr/O my most gentle pleasure
   lyricist: Giovanni Battista Guarini
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: o_souverain_pasteur_et_maistre
@@ -2200,7 +2352,8 @@
   source: Genevan Psalter (1543)
   first_line_of_translation: O Shepherd Sovereign and Master
   lyricist: Clément Marot
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: o_varium_fortune_lubricum
@@ -2214,7 +2367,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: O changeable, O Fortune flexible
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -2230,7 +2384,8 @@
   source: 
   first_line_of_translation: O strength of Wisdom Beyond Time
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 12th century
   notes: 
 - slug: oi_nezumi
@@ -2242,7 +2397,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: The Western Temple's older mice and rats
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -2255,7 +2411,8 @@
   source: 
   first_line_of_translation: Alas, my heart, alas my reason
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: oji
@@ -2267,7 +2424,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Along the highway
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -2281,7 +2439,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: In the mountain glens
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -2295,7 +2454,8 @@
   source: 
   first_line_of_translation: Say what you want
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: on_parole_a_paris_frese_nouvele
@@ -2312,7 +2472,8 @@
   first_line_of_translation: Some folks talk of winnowing and threshing - Paris has
     at any time - Frèse nouvele
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   notes: 
 - slug: orientis_partibus
@@ -2326,7 +2487,8 @@
   source: 
   first_line_of_translation: From the East the donkey came
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 13th century
   tags:
   - holiday
@@ -2340,7 +2502,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: For today we feast and revel
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   tags:
   - holiday
@@ -2356,7 +2519,8 @@
   source: "​Münster Fragment (early 14th century)"
   first_line_of_translation: Only now my life has meaning
   lyricist: 
-  language: German
+  language:
+  - German
   century: 12th-13th century
   tags:
   - Minnesang
@@ -2371,7 +2535,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Pass me 'cross, for God's sake, boatman
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: pase_el_agoa
@@ -2387,7 +2552,9 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Cross deep oceans
   lyricist: 
-  language: French, Galician-Portuguese
+  language:
+  - French
+  - Galician-Portuguese
   century: 15th century
   notes: 
 - slug: paseisme_ahora
@@ -2401,7 +2568,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Come to me now in highlands yonder
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: pax_in_nomine_domini
@@ -2416,7 +2584,9 @@
     likely 1260s-70s)'
   first_line_of_translation: Pax in nomine Domini
   lyricist: 
-  language: Latin, Occitan
+  language:
+  - Latin
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -2433,7 +2603,8 @@
     (1582)
   first_line_of_translation: On this day, all around
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 14th century
   tags:
   - holiday
@@ -2449,7 +2620,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Pray for us, O Mother
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2466,7 +2638,8 @@
   first_line_of_translation: Since the Holy Virgin Mary Gives Her gifts, astute and
     wise
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2482,7 +2655,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Because composing songs is such an art
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2499,7 +2673,8 @@
     Nationale fonds fr. 22543'
   first_line_of_translation: Learning is no help to me
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -2515,7 +2690,8 @@
   source: Bibliothèque Nationale fonds fr. 20050 (c. 1240-1250)
   first_line_of_translation: Since such a skill springs and grows in me
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -2529,7 +2705,8 @@
   source: 
   first_line_of_translation: A fire was set by Love inside my being
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: post_partum_virgo_ave_regina_veritatem
@@ -2544,7 +2721,8 @@
   first_line_of_translation: A birth, but virgin remaining - Hail, Queen of Glory;
     hail, we say - Truth and mercy
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 13th century
   notes: 
 - slug: pour_souhaitter
@@ -2558,7 +2736,8 @@
   source: "? (1545)"
   first_line_of_translation: In all my life I wish for nothing more
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: prendes_i_garde
@@ -2572,7 +2751,8 @@
   source: 
   first_line_of_translation: If they look freely
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -2592,7 +2772,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Those souls who hatred pour
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -2609,7 +2790,8 @@
     (1582)
   first_line_of_translation: Sing we scholars collectively
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 16th century
   tags:
   - holiday
@@ -2623,7 +2805,8 @@
   source: Musae Sioniae (1609)
   first_line_of_translation: Sing with praise! Make your voices one
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 17th century
   tags:
   - holiday
@@ -2637,7 +2820,9 @@
   first_line_of_translation: Pretty maiden, beautiful and fair - Languishing from
     pains of love - Domino
   lyricist: 
-  language: French, Latin
+  language:
+  - French
+  - Latin
   century: 13th century
   notes: 
 - slug: quam_pulchra_es
@@ -2649,7 +2834,8 @@
   source: 
   first_line_of_translation: How beautiful you are and graceful
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 15th century
   notes: 
 - slug: quan_vei_lalauzeta_mover
@@ -2663,7 +2849,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: I see the lark with joy enthralled
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -2678,7 +2865,8 @@
   first_line_of_translation: When I'm drunk on claret wine - Wine will make us merry
     - Drink, my friends
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: attributed
 - slug: quen_a_omagen_da_virgen
@@ -2692,7 +2880,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: When the blessing of the Virgin or her noble Son we see
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2709,7 +2898,8 @@
   first_line_of_translation: Place your hope upon the Virgin, Her whose Glory angels
     tell
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2726,7 +2916,8 @@
   first_line_of_translation: Those who trust in the Virgin and ask her for her help
     will be helped
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2742,7 +2933,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: If Holy Saint Mary keeps watch over you
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2758,7 +2950,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: 'To the Virgin devotion show: To Paradise you will go'
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2773,7 +2966,8 @@
   source: 
   first_line_of_translation: Love, make her kind to me
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 14th century
   notes: 
 - slug: qui_dort_icy
@@ -2784,7 +2978,8 @@
   source: Le premier livre de chansons, auquel sont 27 chansons nouvelles (1564)
   first_line_of_translation: Who’s sleeping here? Don’t ask about that bed!
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: qwat_tydyngis_bryngyst_thou_massager
@@ -2796,7 +2991,8 @@
   source: MS. Douce 302 (15th century); Selden MS. B.26 f.15v (15th century)
   first_line_of_translation: A babe is born so high and pure
   lyricist: John Audelay
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - holiday
@@ -2813,7 +3009,8 @@
     Nationale fonds fr. 22543'
   first_line_of_translation: Glorious King, Lord of radiant light
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -2830,7 +3027,8 @@
     (1582)
   first_line_of_translation: All the world with praises rings
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 14th century
   tags:
   - holiday
@@ -2846,7 +3044,8 @@
   source: 
   first_line_of_translation: Revel we now, revel each loving boy
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th century
   notes: 
 - slug: robins_maime
@@ -2860,7 +3059,8 @@
   source: Le Jeu de Robin et de Marion (c. 1282-1283)
   first_line_of_translation: Robin loves me
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - rondeau
@@ -2876,7 +3076,8 @@
   source: Royal 5 F VII (late 12th century)
   first_line_of_translation: O, Saint Nicholas, God’s friend so close
   lyricist: 
-  language: English
+  language:
+  - English
   century: 12th century
   tags:
   - holiday
@@ -2892,7 +3093,8 @@
   source: 
   first_line_of_translation: Welcome, our Empress
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th century
   tags:
   - holiday
@@ -2909,7 +3111,8 @@
   first_line_of_translation: Holy Queen Mary I praise, have praised, and will ever
     praise
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2925,7 +3128,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Oh, Holy Mary, the Daystar fair
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -2941,7 +3145,8 @@
   source: Bibliothèque nationale fonds fr. 22543 (c. 1300)
   first_line_of_translation: I’m wise and dull, I’m humble and I’m proud
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -2955,7 +3160,8 @@
   source: 
   first_line_of_translation: If my cheeks are ashen
   lyricist: 
-  language: French
+  language:
+  - French
   century: 15th century
   notes: 
 - slug: segli_e_vero
@@ -2966,7 +3172,8 @@
   source: 
   first_line_of_translation: If it's true, Hymenaios
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   notes: 
 - slug: seigneurs_sachiez_qui_or_ne_sen_ira
@@ -2980,7 +3187,8 @@
   source: 
   first_line_of_translation: 'My lords, be warned: if you refuse to go'
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   tags:
   - troubadour/trouvère song
@@ -3007,7 +3215,8 @@
   source: "? (1545)"
   first_line_of_translation: Always this lady laughs, laughs at me always
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 16th century
   tags:
   - madrigal
@@ -3021,7 +3230,8 @@
   source: "? (1544)"
   first_line_of_translation: If my relief, the rescue I await
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: si_par_trop_boire
@@ -3032,7 +3242,8 @@
   source: Le XIIième Livre de Chansons (1550)
   first_line_of_translation: If in the morning when you wake
   lyricist: 
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: sic_mea_fata
@@ -3046,7 +3257,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: I sing for comfort, my fate allaying
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -3067,7 +3279,8 @@
   first_line_of_translation: As the deer thirsts and pants for flowing fountains of
     water
   lyricist: Psalm 42
-  language: Latin
+  language:
+  - Latin
   century: 16th century
   notes: 
 - slug: sol_sol_gi_gi_a_b_c
@@ -3079,7 +3292,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Sol sol gee gee A B C
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: son_me_regarde_prennes_i_garde_he_mi_enfant
@@ -3096,7 +3310,8 @@
   first_line_of_translation: If he is staring - Look at him, sharing - Hey, hey, my
     child
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   notes: 
 - slug: splendens_ceptigera
@@ -3110,7 +3325,8 @@
   source: Llibre Vermell de Montserrat (late 14th century)
   first_line_of_translation: Shining Queen, Sovereign One
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 14th century
   notes: 
 - slug: stella_splendens
@@ -3121,7 +3337,8 @@
   source: Llibre Vermell de Montserrat (late 14th century)
   first_line_of_translation: Splendid star of the mountain, with miracles that fall
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 14th century
   notes: 
 - slug: sumer_is_icumen_in
@@ -3136,7 +3353,9 @@
   first_line_of_translation: Summertime is coming in/See, good Christian, see the
     sign
   lyricist: 
-  language: English, Latin
+  language:
+  - English
+  - Latin
   century: 13th century
   notes: 
 - slug: takasago
@@ -3148,7 +3367,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: High are the sands, high
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -3162,7 +3382,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Upon Hawk Mountain
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -3176,7 +3397,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: At the well of Tanaka
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -3189,7 +3411,8 @@
   source: 
   first_line_of_translation: While I am young and flourish in my prime
   lyricist: Clément Marot
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: teresica_hermana
@@ -3203,7 +3426,8 @@
   source: Cancionero de Upsala (1556)
   first_line_of_translation: Sister Teresica
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 16th century
   notes: 
 - slug: the_borys_hede_that_we_bryng_here
@@ -3218,7 +3442,9 @@
     century)
   first_line_of_translation: The boar's head that we bring here
   lyricist: 
-  language: English, Latin
+  language:
+  - English
+  - Latin
   century: 15th century
   tags:
   - holiday
@@ -3231,7 +3457,9 @@
   source: Trinity Carol Roll (15th century)
   first_line_of_translation: There is no rose of such virtue
   lyricist: 
-  language: English, Latin
+  language:
+  - English
+  - Latin
   century: 15th century
   tags:
   - holiday
@@ -3247,7 +3475,8 @@
   source: Selden Manuscript (c. 1450)
   first_line_of_translation: Of a rose we sing today
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - holiday
@@ -3263,7 +3492,8 @@
   source: National Library of Scotland MS. Advocates 19. 3. 1. (c. 1475)
   first_line_of_translation: This yester-night I saw a sight
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - holiday
@@ -3277,7 +3507,8 @@
   source: 
   first_line_of_translation: She was quite young
   lyricist: 
-  language: Dutch
+  language:
+  - Dutch
   century: 15th-16th century
   notes: 
 - slug: to_the_now_crystys_der_derlyng
@@ -3291,7 +3522,8 @@
   source: Bodleian Library MS. Eng. Poet. e. 1. (c. 1471-1485)
   first_line_of_translation: To you now, Christ’s dear darling one
   lyricist: 
-  language: English
+  language:
+  - English
   century: 15th century
   tags:
   - holiday
@@ -3306,7 +3538,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Everything here in Creation
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: toller_pod_a_madre_de_nostro_sennor
@@ -3320,7 +3553,8 @@
   source: Cantigas de Santa Maria (1270-1290)
   first_line_of_translation: Mother of our Savior and Lord who inspires
   lyricist: 
-  language: Galician-Portuguese
+  language:
+  - Galician-Portuguese
   century: 13th century
   tags:
   - cantiga
@@ -3334,7 +3568,8 @@
   source: 
   first_line_of_translation: Just as the new and splendid morning is dawning
   lyricist: 
-  language: Italian
+  language:
+  - Italian
   century: 14th century
   notes: 
 - slug: toutes_les_nuitz
@@ -3350,7 +3585,8 @@
   source: Terzo libro di madrigali a 5 voci (1563)
   first_line_of_translation: All of the nights that I lie down without you
   lyricist: Clément Marot
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: tres_morillas_menamoran
@@ -3361,7 +3597,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Three young Moorish girls I fell for in Jaén
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: tu_as_tout_seul_jean_jean
@@ -3372,7 +3609,8 @@
   source: "? (1547)"
   first_line_of_translation: You have them all, Jean, Jean, the vines and plains
   lyricist: Clément Marot
-  language: French
+  language:
+  - French
   century: 16th century
   notes: 
 - slug: ubi_caritas
@@ -3386,7 +3624,8 @@
   source: 
   first_line_of_translation: Where both charity and love are, God is present, too
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 10th century
   notes: 
 - slug: under_der_linden
@@ -3400,7 +3639,8 @@
   source: 
   first_line_of_translation: Under the linden in the wildlands
   lyricist: 
-  language: German
+  language:
+  - German
   century: 12th-13th century
   tags:
   - Minnesang
@@ -3418,7 +3658,8 @@
   source: Engleberg Codex (14th‐15th centuries)
   first_line_of_translation: Now the Unicorn is captured
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 14th-15th century
   notes: 
 - slug: unter_alln_auf_dieser_erden
@@ -3430,7 +3671,8 @@
   source: 
   first_line_of_translation: In the world’s far ends to ends near
   lyricist: 
-  language: German
+  language:
+  - German
   century: 16th century
   notes: 
 - slug: ut_queant_laxis
@@ -3444,7 +3686,8 @@
   source: Epistola (before 1033)
   first_line_of_translation: Uttering praises, raising songs of your feats
   lyricist: attr. Paulus Diaconus
-  language: Latin
+  language:
+  - Latin
   century: 11th century
   notes: unsure whether Guido is original composer
 - slug: vas_vos_soplei_domna_primeiramen
@@ -3459,7 +3702,8 @@
     likely 1260s-70s)'
   first_line_of_translation: For now and always, I bow down to you
   lyricist: 
-  language: Occitan
+  language:
+  - Occitan
   century: 12th century
   tags:
   - troubadour/trouvère song
@@ -3475,7 +3719,9 @@
   source: Cancionero de Upsala (1556)
   first_line_of_translation: Now the Word has been made flesh
   lyricist: 
-  language: Latin, Spanish
+  language:
+  - Latin
+  - Spanish
   century: 16th century
   tags:
   - holiday
@@ -3497,7 +3743,8 @@
   source: Cambridge University Manuscript (13th century)
   first_line_of_translation: Now the Word in flesh is seated, O! O!
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 12th century
   tags:
   - conductus
@@ -3518,7 +3765,8 @@
   source: Florence Manuscript p29.1
   first_line_of_translation: By the power of the Spring
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 13th century
   notes: 
 - slug: veris_dulcis_in_tempore
@@ -3532,7 +3780,8 @@
   source: Carmina Burana (11th-13th centuries)
   first_line_of_translation: Spring is sweet, and green is growing
   lyricist: 
-  language: Latin
+  language:
+  - Latin
   century: 11th-13th century
   tags:
   - goliard song
@@ -3552,7 +3801,8 @@
   source: Cancionero de Palacio (late 15th century)
   first_line_of_translation: Old and ugly in my blankets
   lyricist: 
-  language: Spanish
+  language:
+  - Spanish
   century: 15th century
   notes: 
 - slug: volez_vous_que_je_vous_chant
@@ -3566,7 +3816,8 @@
   source: 
   first_line_of_translation: Would you like to hear me sing
   lyricist: 
-  language: French
+  language:
+  - French
   century: 13th century
   notes: 
 - slug: wa_ie
@@ -3578,7 +3829,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: At our house now
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
@@ -3592,7 +3844,8 @@
     Fujiwara no Moronaga, c. 1171-1192)
   first_line_of_translation: Here before our gate, oh
   lyricist: 
-  language: Japanese
+  language:
+  - Japanese
   century: 12th century
   tags:
   - saibara
