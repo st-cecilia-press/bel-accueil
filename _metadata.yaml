@@ -1,4 +1,4 @@
----
+﻿---
 - slug: a_chanter_mer_de_so_queu__no_volria
   title: A chantar m'er de so qu' eu no volria
   composer: La Comtessa de Dia
@@ -3849,4 +3849,21 @@
   century: 12th century
   tags:
   - saibara
+  notes: edited by Fujiwara no Moronaga
+- slug: plaude_euge_theotocos
+  title: Plaude euge Theotocos
+  composer: Petrus Wilhelmi Grudencz
+  voicings:
+  - STB
+  - SBB
+  - ATB
+  - ABB
+  source: 
+  first_line_of_translation: Past Extoling, Theotokos
+  lyricist: 
+  language:
+  - Latin
+  century: 15th century
+  tags:
+  - acrostic
   notes: edited by Fujiwara no Moronaga
