@@ -1,10 +1,9 @@
+require 'fileutils'
 require 'csv'
 require 'yaml'
-metadata = Array.new
-CSV.foreach('./!List of all pieces.csv')do |row|
+CSV.foreach('./pieces_list.csv')do |row|
   next if row[0] == 'Slug' 
   hash = Hash.new
-  hash['slug'] = row[0]
   hash['title'] = row[1]
   hash['composer'] = row[2]
   hash['voicings'] = row[3].split(', ') unless row[3].nil?
@@ -16,9 +15,11 @@ CSV.foreach('./!List of all pieces.csv')do |row|
   hash['tags'] = row[9].split(', ') unless row[9].nil?
   hash['notes'] = row[10]
 
-  metadata.push(hash)
+  slug = row[0]
+  Dir.mkdir(slug)
+  File.open("./#{slug}/metadata.yaml", 'w'){ |f|
+      f.puts hash.to_yaml
+  }
+  FileUtils.mv("./#{slug}.pdf", "./#{slug}/#{slug}.pdf")
 end
 
-File.open('./metadata.yaml', 'w'){ |f|
-    f.puts metadata.to_yaml
-}
