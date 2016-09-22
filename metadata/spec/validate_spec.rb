@@ -15,17 +15,17 @@ describe "validate_piece" do
     it "rejects missing title" do
       @metadata.delete("title")
       val = validate_piece(@metadata)
-      expect(val).to eq('Need Title')
+      expect(val).to eq(['Need Title'])
     end
     it "rejects missing composer" do
       @metadata.delete("composer")
       val = validate_piece(@metadata)
-      expect(val).to eq('Need Composer')
+      expect(val).to eq(['Need Composer'])
     end
     it "rejects missing voicings" do
       @metadata.delete("voicings")
       val = validate_piece(@metadata)
-      expect(val).to eq('Need at least one Voicing')
+      expect(val).to eq(['Need at least one Voicing'])
     end
 
 
@@ -33,22 +33,22 @@ describe "validate_piece" do
     it "rejects empty title" do
       @metadata["title"] = ""
       val = validate_piece(@metadata)
-      expect(val).to eq('Need Title')
+      expect(val).to eq(['Need Title'])
     end
     it "rejects empty composer" do
       @metadata["composer"] = ""
       val = validate_piece(@metadata)
-      expect(val).to eq('Need Composer')
+      expect(val).to eq(['Need Composer'])
     end
     it "rejects empty voicings" do
       @metadata["voicings"] = ""
       val = validate_piece(@metadata)
-      expect(val).to eq('Need at least one Voicing')
+      expect(val).to eq(['Need at least one Voicing'])
     end
     it "rejects empty voicings element" do
       @metadata["voicings"][0] = ""
       val = validate_piece(@metadata)
-      expect(val).to eq('Need at least one Voicing')
+      expect(val).to eq(['Need at least one Voicing'])
     end
 
     context "voicings character checks" do
@@ -63,12 +63,12 @@ describe "validate_piece" do
       it "rejects voicings with uncapitalized 'SATB' characters" do
         @metadata["voicings"][1] = "saTB"
         val = validate_piece(@metadata)
-        expect(val).to eq('Must contain only SATB characters')
+        expect(val).to eq(['Must contain only SATB characters'])
       end
       it "rejects voicings with non 'SATB' characters" do
         @metadata["voicings"][1] = "xxx"
         val = validate_piece(@metadata)
-        expect(val).to eq('Must contain only SATB characters')
+        expect(val).to eq(['Must contain only SATB characters'])
       end
     end
 
@@ -90,6 +90,6 @@ describe "validate" do
   it "rejects missing file" do
     `rm slug/slug.pdf`
     val = validate
-    expect(val).to eq('Error: slug: Need PDF')
+    expect(val).to eq('Errors: ["slug: Need PDF"]')
   end
 end
