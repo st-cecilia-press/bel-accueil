@@ -75,21 +75,40 @@ describe "validate_piece" do
   end 
 end
 describe "validate" do
-  before(:each) do
-    Dir.mkdir("./slug")
-    FileUtils.cp 'spec/fixtures/basic.yaml', 'slug/metadata.yaml'
-    `touch ./slug/slug.pdf`      
+  context "bad YAML" do
+    before(:each) do
+      Dir.mkdir("./slug")
+      FileUtils.cp 'spec/fixtures/bad.yaml', 'slug/metadata.yaml'
+      `touch ./slug/slug.pdf`      
+    end
+    after(:each) do
+      FileUtils.rm_r "./slug" 
+    end
+    it "rejects bad yaml file" do
+      valid, errors = validate
+      expect(valid).to be_falsey
+      expect(errors[0]).to include('slug')
+    end
   end
-  after(:each) do
-    FileUtils.rm_r "./slug" 
-  end
-  it "returns OK for good files structure and metadata" do
-    val = validate
-    expect(val).to eq('OK')
-  end
-  it "rejects missing file" do
-    `rm slug/slug.pdf`
-    val = validate
-    expect(val).to eq('Errors: ["slug: Need PDF"]')
+  context "validate multiple files" do
+    before(:each) do
+      Dir.mkdir("./slug")
+      FileUtils.cp 'spec/fixtures/basic.yaml', 'slug/metadata.yaml'
+      `touch ./slug/slug.pdf`      
+    end
+    after(:each) do
+      FileUtils.rm_r "./slug" 
+    end
+    it "returns OK for good files structure and metadata" do
+      valid, errors = validate
+      expect(valid).to be_truthy
+      expect(errors).to be_nil
+    end
+    it "rejects missing file" do
+      `rm slug/slug.pdf`
+      valid, errors = validate
+      expect(valid).to be_falsey
+      expect(errors[0]).to eq("slug: Need PDF")
+    end
   end
 end

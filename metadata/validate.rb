@@ -1,4 +1,3 @@
-require 'byebug'
 require 'yaml'
 require 'uri'
 require "net/http"
@@ -7,7 +6,14 @@ def validate
   errors = []
   directories = Dir.glob('*').select {|f| File.directory? f and f !=  "spec" and f != "metadata"}
   directories.each do |slug|
-    metadata = YAML.load_file("#{slug}/metadata.yaml")
+
+    yaml = "#{slug}/metadata.yaml"
+    valid, message = valid_yaml_string?(yaml)
+    if !valid
+      errors.push(message)
+      next
+    end
+    metadata = YAML.load_file(yaml)
     errors.push("#{slug}: Need PDF") unless File.exist?("#{slug}/#{slug}.pdf")
     output = validate_piece(metadata)
     unless output == 'OK'
@@ -15,9 +21,9 @@ def validate
     end
   end
   if errors.empty?
-    return 'OK'
+    return true
   else
-    return "Errors: #{errors}"
+    return false, errors 
   end
 end
 def validate_piece(piece)
@@ -37,5 +43,13 @@ def validate_piece(piece)
     return 'OK'
   else 
     return errors
+  end
+end
+
+def valid_yaml_string?(yaml)
+  begin
+    !!YAML.load_file(yaml)
+  rescue Exception => e
+    return false, e.message
   end
 end
