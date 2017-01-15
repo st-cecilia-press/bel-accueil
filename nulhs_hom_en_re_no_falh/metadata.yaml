@@ -1,6 +1,8 @@
----
+﻿---
 title: Nulhs hom en re no falh
-composer: Aimeric de Belenoi
+composer:
+- Raimbaut de Vaqueiras
+- Aimeric de Belenoi
 voicings:
 - S
 - A
@@ -15,4 +17,8 @@ language:
 century: 13th century
 tags:
 - troubadour/trouvère song
-notes: also attributed to Raimbaut de Vaqueiras
+- Chansonnier La Vallière
+- canso
+- authorship disputed
+- love song
+notes: may also be by Aimeric de Belenoi

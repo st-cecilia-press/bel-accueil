@@ -1,0 +1,18 @@
+---
+title: Ave Maria
+composer: Jacobus Handl
+voicings:
+- SATB
+- STTB
+- AATB
+- ATTB
+first_line_of_translation: Hail, blessed Mary, bounteous with mercy
+language:
+- Latin
+century: 16th century
+tags:
+- 16th-century sacred motet
+- religious
+- no source specified
+- Mary
+- Biblical text

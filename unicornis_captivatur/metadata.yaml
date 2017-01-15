@@ -1,4 +1,4 @@
----
+﻿---
 title: Unicornis captivatur
 composer: Anonymous
 voicings:
@@ -8,10 +8,14 @@ voicings:
 - TT
 - TB
 - BB
-source: Engleberg Codex (14th‐15th centuries)
+source: Engleberg Codex (14th century)
 first_line_of_translation: Now the Unicorn is captured
 lyricist: 
 language:
 - Latin
-century: 14th-15th century
+century: 14th century
+tags:
+- Engelberg Codex
+- religious
+- 14th-century German polyphony
 notes: 

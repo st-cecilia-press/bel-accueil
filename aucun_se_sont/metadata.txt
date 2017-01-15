@@ -1,0 +1,17 @@
+---
+title: Aucun se sont - A Dieu commant - Super te
+composer: Adam de la Halle
+voicings:
+- AAT
+- ATT
+first_line_of_translation: Some have praised love, singing its sound - Now to God my loves I'm leaving - Over you
+lyricist: 
+language:
+- French
+- Latin
+century: 13th century
+tags:
+- Montepellier Codex
+- 13th-century motet
+- love song
+- social commentary
