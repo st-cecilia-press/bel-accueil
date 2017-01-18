@@ -1,0 +1,36 @@
+---
+title: Acorrer-nos póde e de mal guardar
+composer: Alfonso X el Sabio, King of Castile and León
+voicings:
+- S
+- A
+- T
+- B
+source: 
+first_line_of_translation: She, the Mother of our Lord, is true and sure
+lyricist: 
+language:
+- Galician-Portuguese
+century: 13th century
+tags:
+- Cantigas de Santa Maria
+- Mary
+- cantiga
+- religious
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

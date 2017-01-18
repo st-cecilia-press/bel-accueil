@@ -1,0 +1,36 @@
+---
+title: Ave verum Corpus
+composer: William Byrd
+voicings:
+- SAAB
+- SATB
+- AAAB
+- AATB
+source: 
+first_line_of_translation: Hail, true fleshly body
+lyricist: 
+language:
+- Latin
+century: 17th century
+tags:
+- Graudualia Cantiones Sacrae
+- Biblical text
+- 17th-century motet
+- religious
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
