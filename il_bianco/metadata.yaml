@@ -1,0 +1,34 @@
+---
+title: Il bianco e dolce cigno
+composer: Jacques Arcadelt
+voicings:
+- SATB
+- STTB
+- AATB
+- ATTB
+source: Il primo libro di madrigali d'Archadelt a 4 voci
+first_line_of_translation: The white and dulcet swan falls and, singing, passes
+lyricist: 
+language:
+- Italian
+century: 16th century
+notes: 
+tags:
+- Il primo libro di madrigali d'Archadelt a 4 voci
+- madrigal
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

@@ -1,0 +1,35 @@
+---
+title: Non nobis Domine
+composer: Anonymous
+voicings:
+- SAT
+- SAB
+- AAT
+- AAB
+source: Bull Manuscript
+first_line_of_translation: Not unto us, not unto us, Lord
+lyricist: 
+language:
+- Latin
+century: 17th century
+tags:
+- canon
+- Bull Manuscript
+- religious
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

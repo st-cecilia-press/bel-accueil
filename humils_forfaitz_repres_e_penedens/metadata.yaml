@@ -1,0 +1,37 @@
+---
+title: Humils forfaitz repres e penedens
+composer: Guiraut Riquier
+voicings:
+- S
+- A
+- T
+- B
+source: Chansonnier La Vallière
+first_line_of_translation: Subdued by guilt, accused, contrite within
+lyricist: 
+language:
+- Occitan
+century: 13th century
+tags:
+- Chansonnier La Vallière
+- troubadour/trouvère song
+- vers
+- religious
+- Mary
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

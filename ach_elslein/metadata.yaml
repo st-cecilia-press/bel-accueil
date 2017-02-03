@@ -1,0 +1,47 @@
+---
+title: Ach Elslein, liebes Elselein mein
+composer: Ludwig Senfl
+voicings:
+- SSAT
+- SSAB
+- SSTT
+- SSTB
+- SAAT
+- SAAB
+- SATT
+- SATB
+- STTT
+- STTB
+- AAAT
+- AAAB
+- AATT
+- AATB
+- ATTT
+- ATTB
+source: 
+first_line_of_translation: Oh, Elslein, dearest Elselein mine
+lyricist: 
+language:
+- German
+century: 16th century
+tags:
+- Der erst teil. Hundert vnd ainundzweintzig newe Lieder
+- lied
+- love song
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
