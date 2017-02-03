@@ -30,6 +30,13 @@ def validate_piece(piece)
   errors = []  
   errors.push("Need Title") if piece['title'].nil? or  piece['title'].empty? 
   errors.push("Need Composer") if  piece['composer'].nil? or piece["composer"].empty?
+  if piece['dates']
+    piece['dates'].each do | date |
+      errors.push ('dates must be integers') unless date.is_a? Integer
+    end
+    errors.push ('second date must be larger than first date') if piece['dates'].count >1 && piece['dates'][0] > piece['dates'][1]
+    errors.push('only two numbers allowed in dates list') if piece['dates'].count > 2
+  end
   if  piece['voicings'].nil? or piece["voicings"].empty? or piece["voicings"].all? {|i| i.nil? or i == ""}
     errors.push("Need at least one Voicing") 
   else

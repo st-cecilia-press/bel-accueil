@@ -40,6 +40,24 @@ describe "validate_piece" do
       val = validate_piece(@metadata)
       expect(val).to eq(['Need Composer'])
     end
+    it "rejects dates with non number" do
+      @metadata["dates"][0] = 'abc'
+      val = validate_piece(@metadata)
+      expect(val).to eq(['dates must be integers'])
+    end
+    it "rejects dates where first number is greater than first" do
+      @metadata["dates"][0] = 1500
+      @metadata["dates"][1] = 1400
+      val = validate_piece(@metadata)
+      expect(val).to eq(['second date must be larger than first date'])
+    end
+    it "rejects dates where more than two numbers are in list" do
+      @metadata["dates"][0] = 1400
+      @metadata["dates"][1] = 1500
+      @metadata["dates"][2] = 1600
+      val = validate_piece(@metadata)
+      expect(val).to eq(['only two numbers allowed in dates list'])
+    end
     it "rejects empty voicings" do
       @metadata["voicings"] = ""
       val = validate_piece(@metadata)
@@ -50,6 +68,8 @@ describe "validate_piece" do
       val = validate_piece(@metadata)
       expect(val).to eq(['Need at least one Voicing'])
     end
+
+    
 
     context "voicings character checks" do
       before(:each) do
