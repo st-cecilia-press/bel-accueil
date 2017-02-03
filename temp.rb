@@ -1,25 +1,45 @@
 require 'fileutils'
-require 'csv'
 require 'yaml'
-CSV.foreach('./pieces_list.csv')do |row|
-  next if row[0] == 'Slug' 
-  hash = Hash.new
-  hash['title'] = row[1]
-  hash['composer'] = row[2]
-  hash['voicings'] = row[3].split(', ') unless row[3].nil?
-  hash['source'] = row[4]
-  hash['first_line_of_translation'] = row[5]
-  hash['lyricist'] = row[6]
-  hash['language'] = row[7].split(', ') unless row[7].nil?
-  hash['century'] = row[8]
-  hash['tags'] = row[9].split(', ') unless row[9].nil?
-  hash['notes'] = row[10]
 
-  slug = row[0]
-  Dir.mkdir(slug)
+directories = Dir.glob('*').select {|f| File.directory? f and f != "test" and f !=  "metadata"}
+
+directories.each do |slug|
+  hash = YAML.load_file("./#{slug}/metadata.yaml")
+  century = hash['century']
+  if century
+    hash['dates'] = []
+    cen = century.split('-')
+    if cen.count == 1
+      num = cen[0].scan(/\d+/).first
+      hash['dates'][0] = (num.to_i - 1) * 100
+      hash['dates'][1] = ((num.to_i - 1) * 100) + 99
+    else
+      num1 = cen[0].scan(/\d+/).first
+      num2 = cen[1].scan(/\d+/).first
+      hash['dates'][0] = (num1.to_i - 1) * 100
+      hash['dates'][1] = ((num2.to_i - 1) * 100) + 99
+    end
+    
+  end
+
+  metadata = Hash.new
+  metadata['title'] = hash['title']
+  metadata['composer'] = hash['composer']
+  metadata['dates'] = hash['dates']
+  metadata['voicings'] = hash['voicings']
+  metadata['source'] = hash['source']
+  metadata['first_line_of_translation'] = hash['first_line_of_translation']
+  metadata['lyricist'] = hash['lyricist']
+  metadata['language'] = hash['language']
+  metadata['century'] = hash['century']
+  metadata['tags'] = hash['tags']
+  metadata['notes'] = hash['notes']
+  
   File.open("./#{slug}/metadata.yaml", 'w'){ |f|
-      f.puts hash.to_yaml
+      f.puts metadata.to_yaml
   }
-  FileUtils.mv("./#{slug}.pdf", "./#{slug}/#{slug}.pdf")
+
 end
+
+
 
