@@ -1,12 +1,15 @@
 ---
 title: Ad cantus laeticiae
 composer: Anonymous
+dates:
+- 1500
+- 1599
 voicings:
 - AA
 - BB
 source: Piae Cantiones
 first_line_of_translation: To a song of joy and cheer
-lyricist:
+lyricist: 
 language:
 - Latin
 century: 16th century
@@ -15,4 +18,4 @@ tags:
 - religious
 - Piae Cantiones
 - school song
-notes:
+notes: 

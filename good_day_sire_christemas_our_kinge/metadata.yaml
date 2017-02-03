@@ -1,6 +1,9 @@
 ---
 title: Good Day Sire Christemas Our Kinge
 composer: Anonymous
+dates:
+- 1400
+- 1499
 voicings:
 - S
 - A
@@ -8,7 +11,7 @@ voicings:
 - B
 source: Selden Manuscript
 first_line_of_translation: Good day, good day
-lyricist:
+lyricist: 
 language:
 - English
 century: 15th century
@@ -17,4 +20,4 @@ tags:
 - English carol
 - Selden Manuscript
 - religious
-notes:
+notes: 

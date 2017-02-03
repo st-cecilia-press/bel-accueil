@@ -1,6 +1,9 @@
 ---
 title: La, la, la, je ne l'ose dire
 composer: Pierre Certon
+dates:
+- 1500
+- 1599
 voicings:
 - SAAB
 - SATB
@@ -8,9 +11,9 @@ voicings:
 - AAAB
 - AATB
 - ATTB
-source:
+source: 
 first_line_of_translation: La, la, la, I don't dare to say it
-lyricist:
+lyricist: 
 language:
 - French
 century: 16th century
@@ -18,4 +21,4 @@ tags:
 - Tiers liure contenant xxix. Chansons novvelles a qvatre parties
 - comedy
 - chanson
-notes:
+notes: 

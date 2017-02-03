@@ -4,7 +4,7 @@ require "net/http"
 
 def validate 
   errors = []
-  directories = Dir.glob('*').select {|f| File.directory? f and f !=  "spec" and f != "metadata"}
+  directories = Dir.glob('*').select {|f| File.directory? f and f !=  "spec" and f != "metadata" and f != 'test'}
   directories.each do |slug|
 
     yaml = "#{slug}/metadata.yaml"
@@ -31,6 +31,7 @@ def validate_piece(piece)
   errors.push("Need Title") if piece['title'].nil? or  piece['title'].empty? 
   errors.push("Need Composer") if  piece['composer'].nil? or piece["composer"].empty?
   if piece['dates']
+    errors.push ('dates must exist') if piece['dates'].empty?
     piece['dates'].each do | date |
       errors.push ('dates must be integers') unless date.is_a? Integer
     end

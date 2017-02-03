@@ -1,6 +1,9 @@
-﻿---
+---
 title: Mon cœur se recommande à vous
 composer: Orlando di Lasso
+dates:
+- 1500
+- 1599
 voicings:
 - SSAAB
 - SSATB
@@ -11,7 +14,8 @@ language:
 - French
 century: 16th century
 tags:
-- Tiers livre des chansons a qvatre cincq et six parties, nouuellement composées par Orlando di Lassus
+- Tiers livre des chansons a qvatre cincq et six parties, nouuellement composées par
+  Orlando di Lassus
 - chanson
 - Clément Marot lyrics
 - love song

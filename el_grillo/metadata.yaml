@@ -1,6 +1,9 @@
 ---
 title: El Grillo
 composer: Josquin des Prez
+dates:
+- 1500
+- 1599
 voicings:
 - SATB
 - SABB
@@ -22,4 +25,4 @@ tags:
 - frottola
 - Frottolle Libro Tertio
 - love song
-notes:
+notes: 

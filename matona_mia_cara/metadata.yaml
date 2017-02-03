@@ -1,12 +1,17 @@
 ---
 title: Matona, mia cara
 composer: Orlando di Lasso
+dates:
+- 1500
+- 1599
 voicings:
 - SAAB
 - SATB
 - AAAB
 - AATB
+source: 
 first_line_of_translation: My lady, pretty madam
+lyricist: 
 language:
 - Italian
 century: 16th century
@@ -15,3 +20,4 @@ tags:
 - madrigal
 - love song
 - social commentary
+notes: 

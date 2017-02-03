@@ -1,6 +1,9 @@
 ---
 title: Acorrer-nos póde e de mal guardar
 composer: Alfonso X el Sabio, King of Castile and León
+dates:
+- 1200
+- 1299
 voicings:
 - S
 - A
@@ -18,19 +21,3 @@ tags:
 - cantiga
 - religious
 notes: 
-manuscripts:
-- name: MANUSCRIPT_NAME
-  diamm: DIAM_ITEM_NUMBER
-  position: 
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 
-books:
-- slug: dowland_first_book_of_songs
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 

@@ -1,12 +1,15 @@
 ---
 title: Io soffriro cor mio
 composer: Giovanni Croce
+dates:
+- 1500
+- 1599
 voicings:
 - SST
 - SAT
-source:
+source: 
 first_line_of_translation: I will endure, beloved
-lyricist:
+lyricist: 
 language:
 - Italian
 century: 16th century
@@ -14,4 +17,4 @@ tags:
 - Canzonette a Tre Voce
 - canzonetta
 - love song
-notes:
+notes: 

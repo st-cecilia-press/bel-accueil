@@ -1,6 +1,9 @@
 ---
 title: Magnum nomen Domini
 composer: Anonymous
+dates:
+- 1400
+- 1499
 voicings:
 - S
 - A
@@ -8,7 +11,7 @@ voicings:
 - B
 source: Piae Cantiones
 first_line_of_translation: Worthy is the name of our Emmanuel
-lyricist:
+lyricist: 
 language:
 - Latin
 century: 15th century
@@ -17,4 +20,4 @@ tags:
 - Piae Cantiones
 - school song
 - religious
-notes:
+notes: 

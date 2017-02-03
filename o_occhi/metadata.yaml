@@ -1,6 +1,9 @@
 ---
 title: O occhi manza mia
 composer: Orlando di Lasso
+dates:
+- 1500
+- 1599
 voicings:
 - SAAB
 - SATB
@@ -8,11 +11,14 @@ voicings:
 - AAAB
 - AATB
 - ATTB
+source: 
 first_line_of_translation: Your eyes, O my beloved
+lyricist: 
 language:
 - Italian
+century: 16th century
 tags:
 - Libro de villanelle, moresche, ed altre canzoni
 - madrigal
 - love song
-century: 16th century
+notes: 

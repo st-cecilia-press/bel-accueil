@@ -1,6 +1,9 @@
 ---
 title: Congaudeat turba fidelium
 composer: Anonymous
+dates:
+- 1500
+- 1599
 voicings:
 - S
 - A
@@ -8,7 +11,7 @@ voicings:
 - B
 source: Piae Cantiones
 first_line_of_translation: Rejoice, you true believers, every one!
-lyricist:
+lyricist: 
 language:
 - Latin
 century: 16th century
@@ -18,4 +21,4 @@ tags:
 - school song
 - religious
 - Mary
-notes:
+notes: 

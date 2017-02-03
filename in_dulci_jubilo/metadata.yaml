@@ -1,10 +1,14 @@
 ---
 title: In dulci jubilo
 composer: Michael Praetorius
+dates:
+- 1600
+- 1699
 voicings:
 - SS
 - SA
 - AA
+source: 
 first_line_of_translation: Let shouts of joy ascend!
 lyricist: Heinrich Suso
 language:

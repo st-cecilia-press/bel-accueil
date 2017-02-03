@@ -1,16 +1,19 @@
-﻿---
+---
 title: Au joly jeu
 composer: Clément Janequin
+dates:
+- 1500
+- 1599
 voicings:
 - SATB
-source:
+source: 
 first_line_of_translation: This flirting game is just a con
-lyricist:
+lyricist: 
 language:
 - French
+century: 16th century
 tags:
 - Trente et une Chansons Musicale
 - chanson
 - love song
-century: 16th century
-notes:
+notes: 

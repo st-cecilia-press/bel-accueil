@@ -1,14 +1,17 @@
 ---
 title: The Corpus Christi Carol
 composer: Anonymous
+dates:
+- 1300
+- 1499
 voicings:
 - S
 - A
 - T
 - B
-source:
+source: 
 first_line_of_translation: Luly, lullay, lully, lullay
-lyricist:
+lyricist: 
 language:
 - English
 century: 14th-15th century
@@ -17,4 +20,4 @@ tags:
 - English carol
 - no source specified
 - religious
-notes:
+notes: 

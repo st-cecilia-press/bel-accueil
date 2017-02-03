@@ -1,6 +1,9 @@
 ---
 title: Puer nobis nascitur
 composer: Anonymous
+dates:
+- 1500
+- 1599
 voicings:
 - S
 - A
@@ -8,7 +11,7 @@ voicings:
 - B
 source: Piae Cantiones
 first_line_of_translation: 
-lyricist:
+lyricist: 
 language:
 - Latin
 century: 16th century
@@ -17,4 +20,4 @@ tags:
 - Piae Cantiones
 - school song
 - religious
-notes:
+notes: 

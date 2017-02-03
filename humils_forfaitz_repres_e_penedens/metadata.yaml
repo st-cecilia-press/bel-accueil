@@ -1,6 +1,9 @@
 ---
 title: Humils forfaitz repres e penedens
 composer: Guiraut Riquier
+dates:
+- 1200
+- 1299
 voicings:
 - S
 - A
@@ -19,19 +22,3 @@ tags:
 - religious
 - Mary
 notes: 
-manuscripts:
-- name: MANUSCRIPT_NAME
-  diamm: DIAM_ITEM_NUMBER
-  position: 
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 
-books:
-- slug: dowland_first_book_of_songs
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 

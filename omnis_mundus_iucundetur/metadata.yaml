@@ -1,6 +1,9 @@
 ---
 title: Omnis mundus iucundetur
 composer: Anonymous
+dates:
+- 1500
+- 1599
 voicings:
 - S
 - A
@@ -8,7 +11,7 @@ voicings:
 - B
 source: Piae Cantiones
 first_line_of_translation: At the birth of Jesus all of nature is elated
-lyricist:
+lyricist: 
 language:
 - Latin
 century: 16th century
@@ -18,4 +21,4 @@ tags:
 - school song
 - religious
 - Mary
-notes:
+notes: 

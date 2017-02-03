@@ -1,6 +1,9 @@
 ---
 title: Il bianco e dolce cigno
 composer: Jacques Arcadelt
+dates:
+- 1500
+- 1599
 voicings:
 - SATB
 - STTB
@@ -12,23 +15,7 @@ lyricist:
 language:
 - Italian
 century: 16th century
-notes: 
 tags:
 - Il primo libro di madrigali d'Archadelt a 4 voci
 - madrigal
-manuscripts:
-- name: MANUSCRIPT_NAME
-  diamm: DIAM_ITEM_NUMBER
-  position: 
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 
-books:
-- slug: dowland_first_book_of_songs
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 
+notes: 

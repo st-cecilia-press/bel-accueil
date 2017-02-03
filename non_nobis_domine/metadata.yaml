@@ -1,6 +1,9 @@
 ---
 title: Non nobis Domine
 composer: Anonymous
+dates:
+- 1600
+- 1699
 voicings:
 - SAT
 - SAB
@@ -17,19 +20,3 @@ tags:
 - Bull Manuscript
 - religious
 notes: 
-manuscripts:
-- name: MANUSCRIPT_NAME
-  diamm: DIAM_ITEM_NUMBER
-  position: 
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 
-books:
-- slug: dowland_first_book_of_songs
-  images:
-  - url: SOURCE_URL
-    filename: LOCAL_FILE
-    name: 
-    description: 

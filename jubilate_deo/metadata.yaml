@@ -1,9 +1,14 @@
 ---
 title: Jubilate Deo
 composer: Orlando di Lasso
+dates:
+- 1500
+- 1599
 voicings:
 - SATB
+source: 
 first_line_of_translation: Shout to God with gladness, all creation
+lyricist: 
 language:
 - Latin
 century: 16th century
@@ -12,3 +17,4 @@ tags:
 - Sacrae Cantiones antehac nunquam nec visae nec typis uspiam excusae. Quatuor vocum.
 - religious
 - Biblical text
+notes: 

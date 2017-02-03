@@ -40,6 +40,11 @@ describe "validate_piece" do
       val = validate_piece(@metadata)
       expect(val).to eq(['Need Composer'])
     end
+    it "rejects empty dates" do
+      @metadata["dates"] = []
+      val = validate_piece(@metadata)
+      expect(val).to eq(['dates must exist'])
+    end
     it "rejects dates with non number" do
       @metadata["dates"][0] = 'abc'
       val = validate_piece(@metadata)

@@ -1,14 +1,17 @@
 ---
 title: J'ayme bien mon amy
 composer: Adrian Willaert
+dates:
+- 1500
+- 1599
 voicings:
 - SSAB
 - SSTB
 - SAAB
 - SATB
-source:
+source: 
 first_line_of_translation: I love my friend, it's true
-lyricist:
+lyricist: 
 language:
 - French
 century: 16th century
@@ -16,4 +19,4 @@ tags:
 - Motetti novi e chanzoni franciose a quatro sopra doi
 - chanson
 - love song
-notes:
+notes: 

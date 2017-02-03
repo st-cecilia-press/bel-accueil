@@ -1,11 +1,16 @@
 ---
 title: Tempus transit gelidum
 composer: Anonymous
+dates:
+- 1000
+- 1299
 voicings:
 - SS
 - SA
 - AA
+source: 
 first_line_of_translation: Icy winter times are past
+lyricist: 
 language:
 - Latin
 century: 11th-13th century
@@ -13,3 +18,4 @@ tags:
 - goliard song
 - Carmina Burana
 - love song
+notes: 

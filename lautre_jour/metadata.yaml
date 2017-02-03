@@ -1,10 +1,15 @@
 ---
 title: L'autre jour - Au tens pasour - In seculum
 composer: Anonymous
+dates:
+- 1200
+- 1299
 voicings:
 - AAA
 - AAT
+source: 
 first_line_of_translation: I the other morning found - At Eastertide - Forevermore
+lyricist: 
 language:
 - French
 - Latin
@@ -14,3 +19,4 @@ tags:
 - 13th-century motet
 - love song
 - pastoral
+notes: 

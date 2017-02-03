@@ -1,6 +1,9 @@
 ---
 title: Pour souhaitter
 composer: Josquin des Prez
+dates:
+- 1500
+- 1599
 voicings:
 - AATTBB
 - AATBBB

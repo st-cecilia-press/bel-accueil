@@ -1,6 +1,9 @@
 ---
 title: Bon jour, bon mois, bon an
 composer: Guillaume Dufay
+dates:
+- 1400
+- 1499
 voicings:
 - STT
 source: 

@@ -1,6 +1,9 @@
 ---
 title: Voi mi ponest'
 composer: Jacques Arcadelt
+dates:
+- 1500
+- 1599
 voicings:
 - SSA
 - SST
@@ -8,7 +11,9 @@ voicings:
 - SAT
 - AAA
 - AAT
+source: 
 first_line_of_translation: Into the flames you throw me
+lyricist: 
 language:
 - Italian
 century: 16th century
@@ -16,3 +21,4 @@ tags:
 - madrigal
 - Il primo libro di madrigali d'Archadelt a tre voci
 - love song
+notes: 

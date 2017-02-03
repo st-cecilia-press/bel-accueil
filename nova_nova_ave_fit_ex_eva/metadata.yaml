@@ -1,14 +1,17 @@
 ---
 title: 'Nova, nova: Ave fit ex Eva'
 composer: Anonymous
+dates:
+- 1400
+- 1499
 voicings:
 - S
 - A
 - T
 - B
-source:
+source: 
 first_line_of_translation: Good news! Good news!
-lyricist:
+lyricist: 
 language:
 - English
 - Latin
@@ -19,4 +22,4 @@ tags:
 - religious
 - Mary
 - no source specified
-notes:
+notes: 

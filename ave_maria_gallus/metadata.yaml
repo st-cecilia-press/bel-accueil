@@ -1,12 +1,17 @@
 ---
 title: Ave Maria
 composer: Jacobus Handl
+dates:
+- 1500
+- 1599
 voicings:
 - SATB
 - STTB
 - AATB
 - ATTB
+source: 
 first_line_of_translation: Hail, blessed Mary, bounteous with mercy
+lyricist: 
 language:
 - Latin
 century: 16th century
@@ -16,3 +21,4 @@ tags:
 - no source specified
 - Mary
 - Biblical text
+notes: 

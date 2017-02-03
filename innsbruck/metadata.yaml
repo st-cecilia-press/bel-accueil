@@ -1,6 +1,9 @@
-﻿---
+---
 title: Innsbruck, ich muß dich lassen
 composer: Heinrich Isaac
+dates:
+- 1400
+- 1499
 voicings:
 - SATB
 source: Ein außbund schöner Teutscher Liedlein zu singen und auff allerley instrument
@@ -11,7 +14,8 @@ language:
 - German
 century: 15th century
 tags:
-- Ein außbund schöner Teutscher Liedlein zu singen und auff allerley instrument zugebrauchen sonderling außerlesen
+- Ein außbund schöner Teutscher Liedlein zu singen und auff allerley instrument zugebrauchen
+  sonderling außerlesen
 - chorale
 - lied
 - love song
