@@ -16,3 +16,16 @@ tags:
 - Plaine and Easie Introduction to Practicall Musicke
 - school song
 notes: 
+books:
+- slug: morley_plain_and_easy
+  images:
+  - url: http://ks.imslp.net/files/imglnks/usimg/4/44/IMSLP231289-SIBLEY1802.21685.c3fb-186732_A_Plaine_and_Easie_Introduction_to_Practicall_Musicke_pt1.pdf
+    filename: christes_crosse_pg1.png
+    name: facsimile page 1
+    description: on page 41 of linked pdf
+  - url: http://ks.imslp.net/files/imglnks/usimg/4/44/IMSLP231289-SIBLEY1802.21685.c3fb-186732_A_Plaine_and_Easie_Introduction_to_Practicall_Musicke_pt1.pdf 
+    filename: christes_crosse_pg2.png
+    name: facsimile page 2
+    description: on page 42 of linked pdf
+
+
