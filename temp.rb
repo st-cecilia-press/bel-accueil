@@ -1,45 +1,35 @@
 require 'fileutils'
-require 'yaml'
+require 'tempfile'
+require 'elif'
 
-directories = Dir.glob('*').select {|f| File.directory? f and f != "test" and f !=  "metadata"}
+directories = Dir.glob('*').select {|f| File.directory? f and f != "test" and f !=  "metadata" }
 
 directories.each do |slug|
-  hash = YAML.load_file("./#{slug}/metadata.yaml")
-  hash.delete('century')
-  #century = hash['century']
-  #if century
-  #  hash['dates'] = []
-  #  cen = century.split('-')
-  #  if cen.count == 1
-  #    num = cen[0].scan(/\d+/).first
-  #    hash['dates'][0] = (num.to_i - 1) * 100
-  #    hash['dates'][1] = ((num.to_i - 1) * 100) + 99
-  #  else
-  #    num1 = cen[0].scan(/\d+/).first
-  #    num2 = cen[1].scan(/\d+/).first
-  #    hash['dates'][0] = (num1.to_i - 1) * 100
-  #    hash['dates'][1] = ((num2.to_i - 1) * 100) + 99
-  #  end
-  #  
-  #end
+  if File.exists? "./#{slug}/lyrics.csv"
+    t_file = Tempfile.new('filename_temp.txt')
+    file_array = []
+    Elif.open("./#{slug}/lyrics.csv").each_line do |l|
+      file_array.push(l)
+    end
+    file_array.each_with_index do |row, i|
+      if i == 0 and row =~ /[^\s,]/
+        break;
+      elsif file_array[i+1] =~ /[^\s,]/ and row =~ /^[\s,]+$/
+        file_array.slice!(0,i+1) 
+        break
+      end
+    end
 
-  #metadata = Hash.new
-  #metadata['title'] = hash['title']
-  #metadata['composer'] = hash['composer']
-  #metadata['dates'] = hash['dates']
-  #metadata['voicings'] = hash['voicings']
-  #metadata['source'] = hash['source']
-  #metadata['first_line_of_translation'] = hash['first_line_of_translation']
-  #metadata['lyricist'] = hash['lyricist']
-  #metadata['language'] = hash['language']
-  #metadata['century'] = hash['century']
-  #metadata['tags'] = hash['tags']
-  #metadata['notes'] = hash['notes']
-  
-  File.open("./#{slug}/metadata.yaml", 'w'){ |f|
-      f.puts hash.to_yaml
-  }
-
+    file_array.reverse.each do |l|
+      t_file.puts l
+    end
+    t_file.close
+    
+    #FileUtils.mv(t_file.path, "test/#{slug}.csv")
+    FileUtils.mv(t_file.path, "#{slug}/lyrics.csv")
+  end 
+  #`iconv -f WINDOWS-1254 -t UTF-8 -o ./#{slug}/out.csv ./#{slug}/lyrics.csv` if File.exists? "./#{slug}/lyrics.csv"
+  #FileUtils.mv "./#{slug}/out.csv", "./#{slug}/lyrics.csv" if File.exists? "./#{slug}/lyrics.csv"
 end
 
 
