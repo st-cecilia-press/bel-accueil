@@ -1,6 +1,7 @@
 require 'yaml'
 require 'uri'
 require "net/http"
+require 'byebug'
 
 class Validator
   def initialize(url=false, book_yaml='./include/books.yaml', manuscript_yaml='./include/manuscripts.yaml')
@@ -25,6 +26,12 @@ class Validator
       unless output == 'OK'
         @errors.push("#{slug}: #{output}")
       end
+      if File.exist?("#{slug}/lyrics.csv")
+        valid, errs = lyrics(slug)
+        unless valid
+          @errors.push("#{slug}: #{errs}")
+        end
+      end
     end
     if @errors.empty?
       return true
@@ -41,6 +48,18 @@ class Validator
     end
   end
 
+  def lyrics(slug)
+    my_errors = []
+    utf8 = `grep -axv '.*' ./#{slug}/lyrics.csv`
+    my_errors.push('lyrics encoding not utf8') unless utf8.empty? 
+    last_line = `tail -1 ./#{slug}/lyrics.csv`
+    my_errors.push('lyrics have empty rows at end') unless last_line =~ /[^\s,]/
+    if my_errors.empty?
+      return true
+    else
+      return false, my_errors 
+    end
+  end
   def validate(metadata, slug)
   
     my_errors = []
@@ -117,62 +136,3 @@ class Validator
 end
 
 
-#def validate 
-#  errors = []
-#  directories = Dir.glob('*').select {|f| File.directory? f and f !=  "spec" and f != "metadata" and f != 'test'}
-#  directories.each do |slug|
-#
-#    yaml = "#{slug}/metadata.yaml"
-#    valid, message = valid_yaml_string?(yaml)
-#    if !valid
-#      errors.push(message)
-#      next
-#    end
-#    metadata = YAML.load_file(yaml)
-#    errors.push("#{slug}: Need PDF") unless File.exist?("#{slug}/#{slug}.pdf")
-#    output = validate_piece(metadata)
-#    unless output == 'OK'
-#      errors.push("#{slug}: #{output}")
-#    end
-#  end
-#  if errors.empty?
-#    return true
-#  else
-#    return false, errors 
-#  end
-#end
-#def validate_piece(piece)
-#  errors = []  
-#  errors.push("Need Title") if piece['title'].nil? or  piece['title'].empty? 
-#  errors.push("Need Composer") if  piece['composer'].nil? or piece["composer"].empty?
-#  if piece['dates']
-#    errors.push ('dates must exist') if piece['dates'].empty?
-#    piece['dates'].each do | date |
-#      errors.push ('dates must be integers') unless date.is_a? Integer
-#    end
-#    errors.push ('second date must be larger than first date') if piece['dates'].count >1 && piece['dates'][0] > piece['dates'][1]
-#    errors.push('only two numbers allowed in dates list') if piece['dates'].count > 2
-#  end
-#  if  piece['voicings'].nil? or piece["voicings"].empty? or piece["voicings"].all? {|i| i.nil? or i == ""}
-#    errors.push("Need at least one Voicing") 
-#  else
-#    piece["voicings"].each do |voicing| 
-#      if voicing != 'Heterophonic'
-#        errors.push("Must contain only SATB characters") if voicing !~ /^[SATB]+$/
-#      end
-#    end
-#  end
-#  if errors.empty?
-#    return 'OK'
-#  else 
-#    return errors
-#  end
-#end
-#
-#def valid_yaml_string?(yaml)
-#  begin
-#    !!YAML.load_file(yaml)
-#  rescue Exception => e
-#    return false, e.message
-#  end
-#end

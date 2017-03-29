@@ -232,3 +232,32 @@ describe "validate" do
     end
   end
 end
+describe 'lyrics' do
+  before(:each) do
+    Dir.mkdir("./slug")
+    @validator = Validator.new
+  end
+  after(:each) do
+    FileUtils.rm_r "./slug" 
+  end
+  it "returns OK for good lyrics csv" do
+    FileUtils.cp 'spec/fixtures/good_lyrics.csv', 'slug/lyrics.csv'
+    valid, errors = @validator.lyrics('slug')
+    expect(valid).to be_truthy
+    expect(errors).to be_nil
+  end
+  it "rejects non utf8 encoding for lyrics csv" do
+    FileUtils.cp 'spec/fixtures/bad_lyrics_encoding.csv', 'slug/lyrics.csv'
+    valid, errors = @validator.lyrics('slug')
+    expect(valid).to be_falsey
+    expect(errors[0]).to eq("lyrics encoding not utf8")
+  end
+
+  it "rejects lyrics csv with empty rows" do
+    FileUtils.cp 'spec/fixtures/bad_lyrics_extra_lines.csv', 'slug/lyrics.csv'
+    valid, errors = @validator.lyrics('slug')
+    expect(valid).to be_falsey
+    expect(errors[0]).to eq("lyrics have empty rows at end")
+  end
+    
+end
