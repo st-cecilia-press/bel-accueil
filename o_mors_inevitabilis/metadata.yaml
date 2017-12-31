@@ -1,0 +1,40 @@
+---
+title: O mors inevitabilis
+composer: Jheronimus Vinders
+date:
+- 1500
+- 1599
+voicings:
+- SSTTABB
+- SSTTTBB
+- SATTABB
+- SSTTTBB
+- SATTABB
+- SATTTBB
+- AATTABB
+- AATTTBB
+source: 
+first_line_of_translation: O death so inescapable
+lyricist: 
+language:
+- Latin
+tags:
+- 16th century secular motet
+- lament
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

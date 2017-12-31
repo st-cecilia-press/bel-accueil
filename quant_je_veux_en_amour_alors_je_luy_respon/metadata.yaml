@@ -8,7 +8,11 @@ voicings:
 - SAB
 - STB
 source: 
+<<<<<<< HEAD
 first_line_of_translation: When I would rather go slowly or take a break; I answered her like this: "As for me, I don't know"
+=======
+first_line_of_translation: "When I would rather go slowly or take a break & I answered her like this: \"As for me, I don't know\""
+>>>>>>> 52e112c33f2c9481ddc1151518ab50bac727f63b
 lyricist: 
 language:
 - French

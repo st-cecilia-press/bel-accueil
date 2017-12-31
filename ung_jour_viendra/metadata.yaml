@@ -1,0 +1,39 @@
+---
+title: Ung jour viendra
+composer: Nicolas Gombert
+dates:
+- 1500
+- 1599
+voicings:
+- SSATT
+- SSATB
+- SSTTT
+- SSTTB
+- SAATT
+- SAATT
+- SATTT
+- SATTB
+source: 
+first_line_of_translation: The day will come when I will have my pleasure
+lyricist: 
+language:
+- French
+tags:
+- madrigal
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

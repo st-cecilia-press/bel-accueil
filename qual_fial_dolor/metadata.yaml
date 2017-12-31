@@ -1,0 +1,35 @@
+---
+title: Qual fia'l dolor
+composer: Leonard Meldert
+date:
+- 1500
+- 1599
+voicings:
+- SAAAB
+- SAATB
+- SATTB
+source: 
+first_line_of_translation: How much discord
+lyricist: Hubert Naich 
+language:
+- Italian
+tags:
+- madrigal
+- Hubert Naich lyrics
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

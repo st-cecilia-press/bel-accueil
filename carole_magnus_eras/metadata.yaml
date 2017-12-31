@@ -1,0 +1,34 @@
+---
+title: Carole magnus eras
+composer: Jacobus Clemens non Papa
+date:
+- 1500
+- 1599
+voicings:
+- SSTTB
+- ASTTB
+source: 
+first_line_of_translation: Charles our King, you were mighty
+lyricist: 
+language:
+- Latin
+tags:
+- political
+- madrigal
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 

@@ -53,7 +53,11 @@ class Validator
     utf8 = `grep -axv '.*' ./#{slug}/lyrics.csv`
     my_errors.push('lyrics encoding not utf8') unless utf8.empty? 
     last_line = `tail -1 ./#{slug}/lyrics.csv`
-    my_errors.push('lyrics have empty rows at end') unless last_line =~ /[^\s,]/
+    begin
+      my_errors.push('lyrics have empty rows at end') unless last_line =~ /[^\s,]/
+    rescue
+     my_errors.push('utf8 problem') 
+    end
     if my_errors.empty?
       return true
     else

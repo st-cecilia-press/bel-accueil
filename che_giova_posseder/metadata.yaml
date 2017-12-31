@@ -1,0 +1,38 @@
+---
+title: Che giova posseder
+composer: Orlando di Lasso
+date:
+- 1500
+- 1599
+voicings:
+- SSAAB
+- SSATB
+- SSTTB
+- SAAAB
+- SAATB
+- SATTB
+source: 
+first_line_of_translation: What joy to have great kingdoms, cities, towers
+lyricist: Pietro Bembo
+language:
+- Italian
+tags:
+- Pietro Bembo lyrics
+- madrigal
+notes: 
+manuscripts:
+- name: MANUSCRIPT_NAME
+  diamm: DIAM_ITEM_NUMBER
+  position: 
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
+books:
+- slug: dowland_first_book_of_songs
+  images:
+  - url: SOURCE_URL
+    filename: LOCAL_FILE
+    name: 
+    description: 
