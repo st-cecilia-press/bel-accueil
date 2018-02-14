@@ -4,8 +4,9 @@ require "net/http"
 require 'byebug'
 
 class Validator
-  def initialize(url=false, book_yaml='./include/books.yaml', manuscript_yaml='./include/manuscripts.yaml')
+  def initialize(url=false, verbose=false, book_yaml='./include/books.yaml', manuscript_yaml='./include/manuscripts.yaml')
     @url = url
+    @verbose = verbose
     @directories = Dir.glob('*').select {|f| File.directory? f and f !=  "spec" and f != "metadata" and f != 'test' and f!= 'include'}
     @errors = []
     @book_yaml = book_yaml
@@ -14,6 +15,7 @@ class Validator
 
   def validate_repo
     @directories.each do |slug|
+      puts slug if @verbose
       yaml = "#{slug}/metadata.yaml"
       valid, message = valid_yaml_string?(yaml)
       if !valid
