@@ -1,0 +1,11 @@
+---
+title: Chi vuol vedere un bosco
+composer: Peter Philips
+voicings:
+- SSTTBB
+first_line_of_translation: If you would see a forest
+lyricist: 
+language: 
+- Italian
+tags:
+- madrigal

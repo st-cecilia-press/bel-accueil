@@ -10,8 +10,10 @@ voicings:
 - T
 - B
 source: 
-first_line_of_translation: I need advice, Alamanda, your grand wit.
+first_line_of_translation: I need advice, Alamanda, your grand wit
 lyricist: 
+- Giraut de Bornelh
+- Alamanda
 language:
 - Occitan
 tags:
