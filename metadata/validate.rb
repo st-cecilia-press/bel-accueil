@@ -1,9 +1,11 @@
 require 'yaml'
 require 'uri'
+require 'csv'
 require "net/http"
 require 'byebug'
 
 class Validator
+  attr_reader :manuscript_yaml, :book_yaml
   def initialize(url=false, verbose=false, book_yaml='./include/books.yaml', manuscript_yaml='./include/manuscripts.yaml')
     @url = url
     @verbose = verbose
@@ -59,6 +61,11 @@ class Validator
       my_errors.push('lyrics have empty rows at end') unless last_line =~ /[^\s,]/
     rescue
      my_errors.push('utf8 problem') 
+    end
+    begin
+      CSV.read("./#{slug}/lyrics.csv")
+    rescue
+      my_errors.push('lyrics have malformed csv')
     end
     if my_errors.empty?
       return true

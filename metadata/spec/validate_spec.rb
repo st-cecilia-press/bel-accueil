@@ -103,7 +103,7 @@ describe "validate_piece" do
   context "manuscript checks" do
     before(:each) do
       @metadata = YAML.load_file('./spec/fixtures/manuscript.yaml')  
-      @validator = Validator.new(true,'../include/books.yaml','../include/manuscripts.yaml')
+      @validator = Validator.new(true, true,'../include/books.yaml','../include/manuscripts.yaml')
       @slug = 'slug'
       Dir.mkdir("./slug")
       `touch ./slug/file.jpg`
@@ -146,7 +146,7 @@ describe "validate_piece" do
   context "book checks" do
     before(:each) do
       @metadata = YAML.load_file('./spec/fixtures/book.yaml')  
-      @validator = Validator.new(true,'../include/books.yaml','../include/manuscripts.yaml')
+      @validator = Validator.new(true,true,'../include/books.yaml','../include/manuscripts.yaml')
       Dir.mkdir("./slug")
       @slug = 'slug'
       `touch ./slug/file.jpg`
@@ -258,6 +258,12 @@ describe 'lyrics' do
     valid, errors = @validator.lyrics('slug')
     expect(valid).to be_falsey
     expect(errors[0]).to eq("lyrics have empty rows at end")
+  end
+  it "rejects lyrics csv with malformed csv" do
+    FileUtils.cp 'spec/fixtures/bad_lyrics.csv', 'slug/lyrics.csv'
+    valid, errors = @validator.lyrics('slug')
+    expect(valid).to be_falsey
+    expect(errors[0]).to eq("lyrics have malformed csv")
   end
     
 end
